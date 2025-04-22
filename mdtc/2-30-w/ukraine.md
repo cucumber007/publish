@@ -11,17 +11,21 @@ Ukraine holds a unique position in the Model of Development of Technological Civ
 ## Role During the Second Thirty Years War (2020–2050)
 
 ### Key Factors:
+
 1. **Development of UDP**: Ukraine is one of the key UDPs being actively developed during the turmoil. Overcoming historical and structural challenges will be critical to unlocking its potential.
 2. **Favourable country characteristics**: Ukraine's resource-to-population ratio positions it as a favourable country, capable of maintaining stability and fostering development during the turmoil.
 3. **Migration dynamics**: Ukraine may experience both emigration (due to conflict and economic challenges) and immigration (as a destination for displaced populations from less favourable regions).
 
 ### Forecast:
+
 - **Short-term (2020–2030)**:
+
   - Continued conflict with Russia will dominate the geopolitical landscape.
   - Efforts to integrate with European markets and institutions will accelerate, providing access to capital and technology.
   - Agricultural and energy sectors will see significant investment, driven by global demand for food and energy security.
 
 - **Mid-term (2030–2040)**:
+
   - Ukraine will emerge as a regional power, leveraging its resources and strategic location.
   - Decentralization and local governance reforms will strengthen internal stability.
   - Migration patterns will stabilize, with Ukraine becoming a destination for skilled workers and refugees from less favourable regions.
@@ -34,6 +38,7 @@ Ukraine holds a unique position in the Model of Development of Technological Civ
 ## Implications for the Region
 
 Ukraine's trajectory will have significant implications for the broader region:
+
 - **Eastern Europe**: Ukraine's success could inspire similar transformations in neighboring countries, fostering regional stability.
 - **Global powers**: The competition for influence in Ukraine will shape the strategies of global powers, particularly the EU, the US, and Russia.
 - **Resource markets**: Ukraine's development will impact global food and energy markets, contributing to greater resource security.

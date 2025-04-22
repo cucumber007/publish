@@ -1,4 +1,5 @@
 @@@ ./README.md
+
 # publish
 
 [Gthub Pages](https://cucumber007.github.io/publish/)
@@ -7,6 +8,7 @@ This repo is a collection of docs that serve to experiment with AI-based analyti
 
 It's goal to provide an industry-level detalization to a civilization-level theory authored by Vladimir Stus and called The Model of Development of Technological Civilization (Модель Развития Технологической Цивилизации).
 @@@ ./mdtc/1-30-w/netherlands.md
+
 # Netherlands during the First Thirty Years War
 
 The Netherlands' trajectory during the First Thirty Years War illustrates the potential for innovation and economic transformation during turmoil periods in the MDTC framework.
@@ -32,7 +34,7 @@ The Netherlands can be considered a UDP after the Age of Discovery (1400s–1600
 
 - **Water power**: The Dutch utilized windmills and advanced water management systems to reclaim land and support agriculture.
   - These innovations were developed and widely implemented during the 1500s and 1600s, particularly as part of the Dutch Golden Age (1580s–1670s).
-- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more space fot them
+- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more SADAT for them.
 
 ### Key Resources
 
@@ -47,7 +49,8 @@ The Netherlands can be considered a UDP after the Age of Discovery (1400s–1600
   - By the early 1600s, during the Thirty Years War (1618–1648), the Netherlands had a population density of approximately 50–60 people per square kilometer, one of the highest in Europe.
 - Urbanization and trade networks helped mitigate the pressures of high population density by creating economic opportunities.
   - _Where they migrated?_: Migration primarily occurred from rural areas to urban centers such as Amsterdam, Rotterdam, and Leiden, which became economic and cultural hubs during this period.
-@@@ ./mdtc/2-30-w/ukraine.md
+    @@@ ./mdtc/2-30-w/ukraine.md
+
 # Ukraine in the MDTC Framework
 
 Ukraine holds a unique position in the Model of Development of Technological Civilization (MDTC) due to its resource abundance, geographical location, and historical context. As a key UDP (uncomfortable to develop place) during the current turmoil (2020–2050), Ukraine is expected to play a pivotal role in shaping the outcomes of this phase.
@@ -61,17 +64,21 @@ Ukraine holds a unique position in the Model of Development of Technological Civ
 ## Role During the Second Thirty Years War (2020–2050)
 
 ### Key Factors:
+
 1. **Development of UDP**: Ukraine is one of the key UDPs being actively developed during the turmoil. Overcoming historical and structural challenges will be critical to unlocking its potential.
 2. **Favourable country characteristics**: Ukraine's resource-to-population ratio positions it as a favourable country, capable of maintaining stability and fostering development during the turmoil.
 3. **Migration dynamics**: Ukraine may experience both emigration (due to conflict and economic challenges) and immigration (as a destination for displaced populations from less favourable regions).
 
 ### Forecast:
+
 - **Short-term (2020–2030)**:
+
   - Continued conflict with Russia will dominate the geopolitical landscape.
   - Efforts to integrate with European markets and institutions will accelerate, providing access to capital and technology.
   - Agricultural and energy sectors will see significant investment, driven by global demand for food and energy security.
 
 - **Mid-term (2030–2040)**:
+
   - Ukraine will emerge as a regional power, leveraging its resources and strategic location.
   - Decentralization and local governance reforms will strengthen internal stability.
   - Migration patterns will stabilize, with Ukraine becoming a destination for skilled workers and refugees from less favourable regions.
@@ -84,6 +91,7 @@ Ukraine holds a unique position in the Model of Development of Technological Civ
 ## Implications for the Region
 
 Ukraine's trajectory will have significant implications for the broader region:
+
 - **Eastern Europe**: Ukraine's success could inspire similar transformations in neighboring countries, fostering regional stability.
 - **Global powers**: The competition for influence in Ukraine will shape the strategies of global powers, particularly the EU, the US, and Russia.
 - **Resource markets**: Ukraine's development will impact global food and energy markets, contributing to greater resource security.
@@ -92,6 +100,7 @@ Ukraine's trajectory will have significant implications for the broader region:
 
 Ukraine's role during the Second Thirty Years War highlights the importance of resource-rich UDPs in navigating the turmoil phase. While challenges remain, Ukraine's favourable characteristics and strategic importance position it as a key player in the MDTC framework.
 @@@ ./mdtc/cycle.md
+
 # Basic cycle of technological civilization
 
 1. [Modern](modern.md) - a period of rapid technological and social change
@@ -99,75 +108,81 @@ Ukraine's role during the Second Thirty Years War highlights the importance of r
 3. [Stable development](stable.md) - a period of relative stability and gradual change
 
 | Period             | Priority of Resources                                            |
-|--------------------|------------------------------------------------------------------|
+| ------------------ | ---------------------------------------------------------------- |
 | Modern             | Non-renewable resources                                          |
 | Turmoil            | Mixed (caused by the transition from non-renewable to renewable) |
 | Stable development | Renewable resources                                              |
 
 Non-renewable give a temporary much greater speed of development because in unlocks the temporary boost the science progress in [key technologies](key-tech.md).
 
-The space is required for development, expecially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough space, the people start to fight each other for the available space (e.g. World War II - Juri Gagarin didn't discover the new "America" in space). 
+The SADAT is required for development, especially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough SADAT, the people start to fight each other for the available SADAT (e.g. World War II - Juri Gagarin didn't discover the new "America" in SADAT).
 
-The discoveries of new spaces ease the wars and give the energy a way to exit the system and be applied to the development of the new spaces.
+The discoveries of new SADAT ease the wars and give the energy a way to exit the system and be applied to the development of the new SADAT.
 
 Each modern seem to be have the information revolution closer to the end. The information revolution is a period of rapid technological and social change caused by the introduction of new information technologies.
 
 The theory assumes a non-linear progression of "modern," "turmoil," and "stable development," which may have overlapping or cyclical patterns and depend on the place where the params are measured (like a water flow), but for the sake of simplicity, the theory is presented in a semi-linear "single-wave" format.
 
-The moderns are period of development that is similar to laminar flow in water and gases, and the turmoils are similar to turbulent flow. 
+The moderns are period of development that is similar to laminar flow in water and gases, and the turmoils are similar to turbulent flow.
 
 - Age of Vikings / Age of Crusades (Modern)
-    - 1095 – 1291
-    - Information revolution?
+
+  - 1095 – 1291
+  - Information revolution?
 
 - Unknown turmoil (Turmoil)
-    - ???
+
+  - ???
 
 - Unknown stable development (Stable development)
-    - ???
-  
+  - ???
 - Age of Discovery / Reformation (Modern)
-    - 1418 – 1618
-    - Information revolution
-        - 1450? – 1618
-        - Printing press
+
+  - 1418 – 1618
+  - Information revolution
+    - 1450? – 1618
+    - Printing press
 
 - Reformation (?)
-    - 1517 – 1648
+
+  - 1517 – 1648
 
 - Thirty Years War (Turmoil)
-    - 1618 – 1648
+
+  - 1618 – 1648
 
 - Unknown stable development (Stable development)
-    - ???
+
+  - ???
 
 - Age of Enlightenment / Industrial Revolution (Modern)
-    - 1760 – 2020
-    - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more space would be available for development)
-    - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
-    - 1920
-      - After World War I, companies that made tanks started making tractors
-      - It increased labor productivity 
-      - Large amount of farmers became unnecessary
-      - Unemployment
-      - People fled to the USA
-      - 1923 - US closed the borders for migrants
-      - If that wouldn't happen, there probably wouldn't be World War II (more space would be available for development)
-    - 1930
-        - Dust storms in the USA due to the fucked up use of agricultural land
-        - Classic of moderns - total burn out of resources aiming to get the maximum speed of development
-    - Information revolution
-        - 1910 – 2020
-        - Telegraph
-        - Radio
-        - Television
-        - Internet
+
+  - 1760 – 2020
+  - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more SADAT would be available for development)
+  - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
+  - 1920
+    - After World War I, companies that made tanks started making tractors
+    - It increased labor productivity
+    - Large amount of farmers became unnecessary
+    - Unemployment
+    - People fled to the USA
+    - 1923 - US closed the borders for migrants
+    - If that wouldn't happen, there probably wouldn't be World War II (more SADAT would be available for development)
+  - 1930
+    - Dust storms in the USA due to the messed-up use of agricultural land
+    - Classic of moderns - total burn out of resources aiming to get the maximum speed of development
+  - Information revolution
+    - 1910 – 2020
+    - Telegraph
+    - Radio
+    - Television
+    - Internet
 
 - Second Thirty Years War (Turmoil)
-    - 2020 – 2050?
-
+  - 2020 – 2050?
 
 @@@ ./mdtc/favourable-countries.md
+
 # Favourable countries
 
 During the turmoil, countries "fall to their resource basis"—globalization ends, regionalization begins, and old power centers lose access to distant resources. The base of power shifts to renewable resources and local self-sufficiency.
@@ -258,6 +273,7 @@ Non-favourable countries are likely to experience fragmentation. Favourable regi
 
 The turmoil period highlights the importance of local resource availability and self-sufficiency. Favourable countries are better equipped to navigate the challenges of this phase, while non-favourable countries face significant risks of collapse and reorganization.
 @@@ ./mdtc/key-tech.md
+
 # Key technologies
 
 Key technologies are the technologies that radically increase the efficiency of labor. They achieve this by enabling the manipulation of energy and unlocking new resources or making existing resources more accessible.
@@ -285,15 +301,16 @@ This section describes the Model of Development of Technological Civilization (M
 The MDTC theory posits that the development of civilizations follows a cyclical pattern driven by the interaction between technological progress, resource availability, and social structures. The three main phases of this cycle are Modern, Turmoil, and Stable Development.
 
 - **Modern**: A period of rapid technological and social change, characterized by the consolidation of power and the exploitation of non-renewable resources to accelerate development.
-- **Turmoil**: A transitional phase marked by instability, as societies struggle to adapt to the depletion of non-renewable resources, absense of space for getting new resources, and the limitations of existing technologies.
+- **Turmoil**: A transitional phase marked by instability, as societies struggle to adapt to the depletion of non-renewable resources, absense of SADAT for getting new resources, and the limitations of existing technologies.
 - **Stable Development**: A phase of relative equilibrium, where societies rely on renewable resources and maintain slower, more sustainable progress.
 
-The theory emphasizes the importance of "space" (resources available for development with current technology) and "key technologies" (those that significantly increase labor efficiency) in shaping the trajectory of civilizations.
+The theory emphasizes the importance of "SADAT" (resources available for development with current technology) and "key technologies" (those that significantly increase labor efficiency) in shaping the trajectory of civilizations.
 
 смута останавливается не из-за грандиозной идеи или проекта
 а в качестве фиксации момента когда дальше падать уже некуда
 "лежит на своей ресурсной базе"
 @@@ ./mdtc/migration.md
+
 # Migration
 
 Migration plays a critical role in the Model of Development of Technological Civilization (MDTC), particularly during the turmoil and modern periods. It serves as both a response to resource scarcity and a mechanism for redistributing labor and resources.
@@ -303,7 +320,7 @@ Migration plays a critical role in the Model of Development of Technological Civ
 In modern periods, migration is often driven by the rapid expansion of industrial centers and the need for labor. Key characteristics include:
 
 - **Urbanization**: People move from rural areas to cities to work in industries powered by [key technologies](key-tech.md).
-- **Colonization**: Migration to newly discovered or underdeveloped "spaces" (e.g., the Americas during the Age of Discovery) to exploit resources and expand economic activity.
+- **Colonization**: Migration to newly discovered or underdeveloped SADAT (e.g., the Americas during the Age of Discovery) to exploit resources and expand economic activity.
 - **Forced migration**: In some cases, groups are displaced or relocated to facilitate modernization efforts (e.g., the transatlantic slave trade, forced collectivization in the USSR).
 
 Migration during modern periods often accelerates development by concentrating labor and resources in areas of high productivity.
@@ -328,7 +345,7 @@ Favourable countries often become destinations for migrants during turmoil perio
 
 ## Historical Examples
 
-- **European migration to the Americas**: During the Age of Discovery, migration to the Americas provided new space for development and alleviated resource pressures in Europe.
+- **European migration to the Americas**: During the Age of Discovery, migration to the Americas provided new SADAT for development and alleviated resource pressures in Europe.
 - **Post-World War II migration**: Displaced populations in Europe relocated to more stable regions, contributing to reconstruction and economic growth.
 - **Current turmoil (2020–2050)**: Migration from non-favourable countries (e.g., parts of Africa, the Middle East) to favourable countries (e.g., Canada, Scandinavia) is expected to increase as resource scarcity and instability worsen.
 
@@ -336,15 +353,17 @@ Favourable countries often become destinations for migrants during turmoil perio
 
 Migration is both a symptom and a driver of the cycles described in the MDTC theory. While it can alleviate pressures in some regions, it can also create new challenges in others. Understanding migration patterns is essential for predicting the outcomes of turmoil and modern periods.
 @@@ ./mdtc/modern.md
+
 # Modern
 
 Modern - a period of rapid technological and social change.
-It's called "Time of changes" in Chinese philosophy, "periods of great passionarity" in the theory of passionarity by Lev Gumilev, and period of "assabiyah" in the theory of Ibn Khaldun. 
+It's called "Time of changes" in Chinese philosophy, "periods of great passionarity" in the theory of passionarity by Lev Gumilev, and period of "assabiyah" in the theory of Ibn Khaldun.
 
 Each modern is characterized by consolidation of power being the best way for domination.
 Consolidation lead to globalization, and the power centers benefit from it.
 
 The question of each modern - who will be sacrificed to get the resources for the modernization (rebuilding the world around new [ket technologies](key-tech.md)).
+
 - Jews in the Nazi Germany
 - Peasants in the USSR
 - Church in England under Henry VIII
@@ -352,14 +371,16 @@ The question of each modern - who will be sacrificed to get the resources for th
 
 There is a concept of "second-wave modern" - e.g. the stuff that happened to some countries in the 20th century (Iran, Asian tigers)
 @@@ ./mdtc/space.md
+
 # Space
 
 Space is defined as the physical area and resources available for development with current technology. It includes both renewable resources (e.g., sunlight, water) and non-renewable resources (e.g., minerals, fossil fuels).
 
-Inventing a [key technology](key-tech.md) is a way to increase the amount of space available for development. Key technologies unlock new resources or make existing resources more accessible and efficient to use.
+Inventing a [key technology](key-tech.md) is a way to increase the amount of SADAT. Key technologies unlock new resources or make existing resources more accessible and efficient to use.
 
-E.g. when the iron axe was invented, the amount of space available for development increased significantly by clearing forests for agriculture and using the wood for construction and fuel. Similarly, the steam engine expanded space by enabling the extraction of coal and the development of railways.
+E.g. when the iron axe was invented, the amount of SADAT increased significantly by clearing forests for agriculture and using the wood for construction and fuel. Similarly, the steam engine expanded SADAT by enabling the extraction of coal and the development of railways.
 @@@ ./mdtc/stable.md
+
 # Stable Development
 
 Stable Development is the final phase in the Model of Development of Technological Civilization (MDTC). It is characterized by a period of relative equilibrium, where societies rely on renewable resources and maintain slower, more sustainable progress.
@@ -373,19 +394,21 @@ Key features of the Stable Development phase:
 
 Stable Development represents a sustainable model of civilization, but it is also vulnerable to external shocks or the emergence of new Modern periods that disrupt the equilibrium.
 @@@ ./mdtc/turmoil.md
+
 # Turmoil
 
 Turmoil or "смута" is a period after the modern. The turmoil happens because the old sources of non-renewable resources that were used for fast modernization and consolidation of power are depleted, if the science progress is slowed down (because most of the tech of the current уклад is already invented) and the new sources of non-renewable resources are not discovered yet.
 
-It seems that usually the turmoil takes around 30 years (two generations) to resolve. 
+It seems that usually the turmoil takes around 30 years (two generations) to resolve.
 
-The harshness of the turmoil depends of the amount of space left. If there is not much - it's horrible war of everyone against everyone. 
+The harshness of the turmoil depends of the amount of space left. If there is not much - it's horrible war of everyone against everyone.
 
 Usually there are some space left in forms of "неудобий" (uncomfortable to develop places, UDP) that were not used much for development during the moderns because of some stopping factors.
 
 Then the turmoil is happening along the "распашка неудобий" (development of UDP) - people actively trying to finally develop the UDP despite the stopping factors by overcoming them.
 
 In the current turmoil (2020-2050) the key UDPs are:
+
 - Ukraine
 - Russia
 - Belarus
@@ -393,6 +416,7 @@ In the current turmoil (2020-2050) the key UDPs are:
 
 See also: [Favourable countries](favourable-countries.md)
 @@@ mdtc/1-30-w/netherlands.md
+
 # Netherlands during the First Thirty Years War
 
 The Netherlands' trajectory during the First Thirty Years War illustrates the potential for innovation and economic transformation during turmoil periods in the MDTC framework.
@@ -433,7 +457,8 @@ The Netherlands can be considered a UDP after the Age of Discovery (1400s–1600
   - By the early 1600s, during the Thirty Years War (1618–1648), the Netherlands had a population density of approximately 50–60 people per square kilometer, one of the highest in Europe.
 - Urbanization and trade networks helped mitigate the pressures of high population density by creating economic opportunities.
   - _Where they migrated?_: Migration primarily occurred from rural areas to urban centers such as Amsterdam, Rotterdam, and Leiden, which became economic and cultural hubs during this period.
-@@@ mdtc/2-30-w/ukraine.md
+    @@@ mdtc/2-30-w/ukraine.md
+
 # Ukraine in the MDTC Framework
 
 Ukraine holds a unique position in the Model of Development of Technological Civilization (MDTC) due to its resource abundance, geographical location, and historical context. As a key UDP (uncomfortable to develop place) during the current turmoil (2020–2050), Ukraine is expected to play a pivotal role in shaping the outcomes of this phase.
@@ -447,17 +472,21 @@ Ukraine holds a unique position in the Model of Development of Technological Civ
 ## Role During the Second Thirty Years War (2020–2050)
 
 ### Key Factors:
+
 1. **Development of UDP**: Ukraine is one of the key UDPs being actively developed during the turmoil. Overcoming historical and structural challenges will be critical to unlocking its potential.
 2. **Favourable country characteristics**: Ukraine's resource-to-population ratio positions it as a favourable country, capable of maintaining stability and fostering development during the turmoil.
 3. **Migration dynamics**: Ukraine may experience both emigration (due to conflict and economic challenges) and immigration (as a destination for displaced populations from less favourable regions).
 
 ### Forecast:
+
 - **Short-term (2020–2030)**:
+
   - Continued conflict with Russia will dominate the geopolitical landscape.
   - Efforts to integrate with European markets and institutions will accelerate, providing access to capital and technology.
   - Agricultural and energy sectors will see significant investment, driven by global demand for food and energy security.
 
 - **Mid-term (2030–2040)**:
+
   - Ukraine will emerge as a regional power, leveraging its resources and strategic location.
   - Decentralization and local governance reforms will strengthen internal stability.
   - Migration patterns will stabilize, with Ukraine becoming a destination for skilled workers and refugees from less favourable regions.
@@ -470,6 +499,7 @@ Ukraine holds a unique position in the Model of Development of Technological Civ
 ## Implications for the Region
 
 Ukraine's trajectory will have significant implications for the broader region:
+
 - **Eastern Europe**: Ukraine's success could inspire similar transformations in neighboring countries, fostering regional stability.
 - **Global powers**: The competition for influence in Ukraine will shape the strategies of global powers, particularly the EU, the US, and Russia.
 - **Resource markets**: Ukraine's development will impact global food and energy markets, contributing to greater resource security.
@@ -478,6 +508,7 @@ Ukraine's trajectory will have significant implications for the broader region:
 
 Ukraine's role during the Second Thirty Years War highlights the importance of resource-rich UDPs in navigating the turmoil phase. While challenges remain, Ukraine's favourable characteristics and strategic importance position it as a key player in the MDTC framework.
 @@@ mdtc/cycle.md
+
 # Basic cycle of technological civilization
 
 1. [Modern](modern.md) - a period of rapid technological and social change
@@ -485,14 +516,14 @@ Ukraine's role during the Second Thirty Years War highlights the importance of r
 3. [Stable development](stable.md) - a period of relative stability and gradual change
 
 | Period             | Priority of Resources                                            |
-|--------------------|------------------------------------------------------------------|
+| ------------------ | ---------------------------------------------------------------- |
 | Modern             | Non-renewable resources                                          |
 | Turmoil            | Mixed (caused by the transition from non-renewable to renewable) |
 | Stable development | Renewable resources                                              |
 
 Non-renewable give a temporary much greater speed of development because in unlocks the temporary boost the science progress in [key technologies](key-tech.md).
 
-The space is required for development, expecially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough space, the people start to fight each other for the available space (e.g. World War II - Juri Gagarin didn't discover the new "America" in space). 
+The space is required for development, expecially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough space, the people start to fight each other for the available space (e.g. World War II - Juri Gagarin didn't discover the new "America" in space).
 
 The discoveries of new spaces ease the wars and give the energy a way to exit the system and be applied to the development of the new spaces.
 
@@ -500,60 +531,66 @@ Each modern seem to be have the information revolution closer to the end. The in
 
 The theory assumes a non-linear progression of "modern," "turmoil," and "stable development," which may have overlapping or cyclical patterns and depend on the place where the params are measured (like a water flow), but for the sake of simplicity, the theory is presented in a semi-linear "single-wave" format.
 
-The moderns are period of development that is similar to laminar flow in water and gases, and the turmoils are similar to turbulent flow. 
+The moderns are period of development that is similar to laminar flow in water and gases, and the turmoils are similar to turbulent flow.
 
 - Age of Vikings / Age of Crusades (Modern)
-    - 1095 – 1291
-    - Information revolution?
+
+  - 1095 – 1291
+  - Information revolution?
 
 - Unknown turmoil (Turmoil)
-    - ???
+
+  - ???
 
 - Unknown stable development (Stable development)
-    - ???
-  
+  - ???
 - Age of Discovery / Reformation (Modern)
-    - 1418 – 1618
-    - Information revolution
-        - 1450? – 1618
-        - Printing press
+
+  - 1418 – 1618
+  - Information revolution
+    - 1450? – 1618
+    - Printing press
 
 - Reformation (?)
-    - 1517 – 1648
+
+  - 1517 – 1648
 
 - Thirty Years War (Turmoil)
-    - 1618 – 1648
+
+  - 1618 – 1648
 
 - Unknown stable development (Stable development)
-    - ???
+
+  - ???
 
 - Age of Enlightenment / Industrial Revolution (Modern)
-    - 1760 – 2020
-    - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more space would be available for development)
-    - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
-    - 1920
-      - After World War I, companies that made tanks started making tractors
-      - It increased labor productivity 
-      - Large amount of farmers became unnecessary
-      - Unemployment
-      - People fled to the USA
-      - 1923 - US closed the borders for migrants
-      - If that wouldn't happen, there probably wouldn't be World War II (more space would be available for development)
-    - 1930
-        - Dust storms in the USA due to the fucked up use of agricultural land
-        - Classic of moderns - total burn out of resources aiming to get the maximum speed of development
-    - Information revolution
-        - 1910 – 2020
-        - Telegraph
-        - Radio
-        - Television
-        - Internet
+
+  - 1760 – 2020
+  - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more space would be available for development)
+  - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
+  - 1920
+    - After World War I, companies that made tanks started making tractors
+    - It increased labor productivity
+    - Large amount of farmers became unnecessary
+    - Unemployment
+    - People fled to the USA
+    - 1923 - US closed the borders for migrants
+    - If that wouldn't happen, there probably wouldn't be World War II (more space would be available for development)
+  - 1930
+    - Dust storms in the USA due to the fucked up use of agricultural land
+    - Classic of moderns - total burn out of resources aiming to get the maximum speed of development
+  - Information revolution
+    - 1910 – 2020
+    - Telegraph
+    - Radio
+    - Television
+    - Internet
 
 - Second Thirty Years War (Turmoil)
-    - 2020 – 2050?
-
+  - 2020 – 2050?
 
 @@@ mdtc/favourable-countries.md
+
 # Favourable countries
 
 During the turmoil, countries "fall to their resource basis"—globalization ends, regionalization begins, and old power centers lose access to distant resources. The base of power shifts to renewable resources and local self-sufficiency.
@@ -644,6 +681,7 @@ Non-favourable countries are likely to experience fragmentation. Favourable regi
 
 The turmoil period highlights the importance of local resource availability and self-sufficiency. Favourable countries are better equipped to navigate the challenges of this phase, while non-favourable countries face significant risks of collapse and reorganization.
 @@@ mdtc/key-tech.md
+
 # Key technologies
 
 Key technologies are the technologies that radically increase the efficiency of labor. They achieve this by enabling the manipulation of energy and unlocking new resources or making existing resources more accessible.
@@ -680,6 +718,7 @@ The theory emphasizes the importance of "space" (resources available for develop
 а в качестве фиксации момента когда дальше падать уже некуда
 "лежит на своей ресурсной базе"
 @@@ mdtc/migration.md
+
 # Migration
 
 Migration plays a critical role in the Model of Development of Technological Civilization (MDTC), particularly during the turmoil and modern periods. It serves as both a response to resource scarcity and a mechanism for redistributing labor and resources.
@@ -722,15 +761,17 @@ Favourable countries often become destinations for migrants during turmoil perio
 
 Migration is both a symptom and a driver of the cycles described in the MDTC theory. While it can alleviate pressures in some regions, it can also create new challenges in others. Understanding migration patterns is essential for predicting the outcomes of turmoil and modern periods.
 @@@ mdtc/modern.md
+
 # Modern
 
 Modern - a period of rapid technological and social change.
-It's called "Time of changes" in Chinese philosophy, "periods of great passionarity" in the theory of passionarity by Lev Gumilev, and period of "assabiyah" in the theory of Ibn Khaldun. 
+It's called "Time of changes" in Chinese philosophy, "periods of great passionarity" in the theory of passionarity by Lev Gumilev, and period of "assabiyah" in the theory of Ibn Khaldun.
 
 Each modern is characterized by consolidation of power being the best way for domination.
 Consolidation lead to globalization, and the power centers benefit from it.
 
 The question of each modern - who will be sacrificed to get the resources for the modernization (rebuilding the world around new [ket technologies](key-tech.md)).
+
 - Jews in the Nazi Germany
 - Peasants in the USSR
 - Church in England under Henry VIII
@@ -738,6 +779,7 @@ The question of each modern - who will be sacrificed to get the resources for th
 
 There is a concept of "second-wave modern" - e.g. the stuff that happened to some countries in the 20th century (Iran, Asian tigers)
 @@@ mdtc/space.md
+
 # Space
 
 Space is defined as the physical area and resources available for development with current technology. It includes both renewable resources (e.g., sunlight, water) and non-renewable resources (e.g., minerals, fossil fuels).
@@ -746,6 +788,7 @@ Inventing a [key technology](key-tech.md) is a way to increase the amount of spa
 
 E.g. when the iron axe was invented, the amount of space available for development increased significantly by clearing forests for agriculture and using the wood for construction and fuel. Similarly, the steam engine expanded space by enabling the extraction of coal and the development of railways.
 @@@ mdtc/stable.md
+
 # Stable Development
 
 Stable Development is the final phase in the Model of Development of Technological Civilization (MDTC). It is characterized by a period of relative equilibrium, where societies rely on renewable resources and maintain slower, more sustainable progress.
@@ -759,19 +802,21 @@ Key features of the Stable Development phase:
 
 Stable Development represents a sustainable model of civilization, but it is also vulnerable to external shocks or the emergence of new Modern periods that disrupt the equilibrium.
 @@@ mdtc/turmoil.md
+
 # Turmoil
 
 Turmoil or "смута" is a period after the modern. The turmoil happens because the old sources of non-renewable resources that were used for fast modernization and consolidation of power are depleted, if the science progress is slowed down (because most of the tech of the current уклад is already invented) and the new sources of non-renewable resources are not discovered yet.
 
-It seems that usually the turmoil takes around 30 years (two generations) to resolve. 
+It seems that usually the turmoil takes around 30 years (two generations) to resolve.
 
-The harshness of the turmoil depends of the amount of space left. If there is not much - it's horrible war of everyone against everyone. 
+The harshness of the turmoil depends of the amount of space left. If there is not much - it's horrible war of everyone against everyone.
 
 Usually there are some space left in forms of "неудобий" (uncomfortable to develop places, UDP) that were not used much for development during the moderns because of some stopping factors.
 
 Then the turmoil is happening along the "распашка неудобий" (development of UDP) - people actively trying to finally develop the UDP despite the stopping factors by overcoming them.
 
 In the current turmoil (2020-2050) the key UDPs are:
+
 - Ukraine
 - Russia
 - Belarus
