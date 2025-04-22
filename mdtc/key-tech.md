@@ -13,4 +13,8 @@ Examples of key technologies:
 Examples of non-key technologies:
 - Airplane
 - Computer
-- Internet
+- Informationsl technologies
+  - Internet
+  - Printing press
+
+The essence of non-key technologies is that yet it indirectly increase the efficiency of labor, they are based on and depend on the key technologies.

@@ -18,6 +18,10 @@ The discoveries of new spaces ease the wars and give the energy a way to exit th
 
 Each modern seem to be have the information revolution closer to the end. The information revolution is a period of rapid technological and social change caused by the introduction of new information technologies.
 
+The theory assumes a non-linear progression of "modern," "turmoil," and "stable development," which may have overlapping or cyclical patterns and depend on the place where the params are measured (like a water flow), but for the sake of simplicity, the theory is presented in a semi-linear "single-wave" format.
+
+The moderns are period of development that is similar to laminar flow in water and gases, and the turmoils are similar to turbulent flow. 
+
 - Age of Vikings / Age of Crusades (Modern)
     - 1095 – 1291
     - Information revolution?
@@ -46,6 +50,7 @@ Each modern seem to be have the information revolution closer to the end. The in
 - Age of Enlightenment / Industrial Revolution (Modern)
     - 1760 – 2020
     - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more space would be available for development)
+    - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
     - 1920
       - After World War I, companies that made tanks started making tractors
       - It increased labor productivity 
