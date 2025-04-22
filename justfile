@@ -6,13 +6,14 @@ merge-md:
     set -euo pipefail
 
     # Step 1: Generate the list of files, exclude onefile.md, and print it
-    file_list=$(find . -type f -name "*.md" ! -path "./docs/*" ! -name "onefile.md" | sort -u | uniq)
+    file_list=$(find . -type f -name "*.md" ! -path "./docs/*" ! -name "onefile.md" | while IFS= read -r file; do realpath "$file"; done | sort -u)
     echo "Files to merge:"
     echo "$file_list"
 
     # Step 2: Merge the files into onefile.md
     rm -f onefile.md
     echo "$file_list" | while IFS= read -r file; do \
+        echo "Writing: $file"; \
         echo "@@@ $file" >> onefile.md; \
         cat "$file" >> onefile.md; \
     done
