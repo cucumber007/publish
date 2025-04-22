@@ -1,14 +1,20 @@
 # Favourable countries
 
-During the turmoil the countries are "fall to it's resource basis" - the globalization ends, regionalization starts, and the old power centers are not able to get their resources from the far away places anymore.
+During the turmoil, countries "fall to their resource basis"—globalization ends, regionalization begins, and old power centers lose access to distant resources. The base of power shifts to renewable resources and local self-sufficiency.
 
-The base of the power shift to renewable resources.
+The countries that have a high ratio of local key resources (food, energy, key production) to their population are called "favourable countries." These countries are better positioned to maintain stability and preserve societal structures during the turmoil.
 
-The countries that have a lot of local key resources (food, energy, key production) compared to it's population are called "favourable countries".
+## Characteristics of favourable countries:
 
-The concept of "favourable countries" is appliend only for the turmoil period. During the modern the success is more dependent on the consolidation of power that lead to faster technological development and scale of the production.
+- **Abundance of renewable resources**: Access to water, arable land, and renewable energy sources.
+- **Low population density**: Ensures that resources are sufficient to meet the needs of the population.
+- **Geographical advantages**: Natural barriers or isolation that protect against external conflicts.
+- **Self-sufficiency**: Ability to produce essential goods locally, reducing dependence on imports.
 
-In the current turmoil (2020-2050) the list of favourable countries is:
+The concept of "favourable countries" applies only during the turmoil period. In the modern period, success depends more on the consolidation of power, technological development, and production scale.
+
+In the current turmoil (2020-2050) the list of favourable countries and areas is:
+
 - Ukraine
 - Canada
 - Kazakhstan
@@ -25,10 +31,12 @@ In the current turmoil (2020-2050) the list of favourable countries is:
 - Uruguay
 
 The countries of average favourability are:
+
 - Israel
-- USA 
+- USA
 
 The non-favourable countries are:
+
 - Russia
 - China
 - India
@@ -36,17 +44,21 @@ The non-favourable countries are:
 - France
 - Germany
 
-The non-favourable countries will probably fall apart and a non-favourable societies will form on the territories that are non-favourable, dependent of the type of the non-favourability.
+### Types of non-favourability:
 
-The types of the un-favourability:
-- "Wild west" - too much territory, not enough people
-- "Harsh east" - too much people, not enough territory
+1. **"Wild west"**: Too much territory, not enough people (e.g., Russia, Canada in some regions).
+2. **"Harsh east"**: Too many people, not enough territory or resources (e.g., China, India).
 
-The favourable part will probably separate to form new countries/societies.
+## Outcomes for non-favourable countries:
 
-Only on favourable territories those items will preserve:
+Non-favourable countries are likely to experience fragmentation. Favourable regions within these countries may separate to form new societies or states. On favourable territories, the following are more likely to be preserved:
+
 - Free market
 - Civil rights
 - Democracy
 - Freedom of speech
 - Emancipation
+
+## Implications:
+
+The turmoil period highlights the importance of local resource availability and self-sufficiency. Favourable countries are better equipped to navigate the challenges of this phase, while non-favourable countries face significant risks of collapse and reorganization.
