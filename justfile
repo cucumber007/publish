@@ -6,7 +6,7 @@ merge-md:
     set -euo pipefail
 
     # Step 1: Generate the list of files, exclude onefile.md, and print it
-    file_list=$(find . mdtc -type f -name "*.md" ! -path "./docs/*" ! -name "onefile.md" | sort -u)
+    file_list=$(find . -type f -name "*.md" ! -path "./docs/*" ! -name "onefile.md" | sort -u | uniq)
     echo "Files to merge:"
     echo "$file_list"
 
