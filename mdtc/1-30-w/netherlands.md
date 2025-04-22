@@ -75,27 +75,31 @@ Include the changes in colonies and technologies that increased SADAT.
 
 ### Migration
 
-- The Netherlands became a destination for skilled migrants, including religious refugees (e.g., Huguenots from France) who contributed to its economic and technological development.
-  - This migration occurred primarily in the late 1500s and early 1600s, particularly after the St. Bartholomew's Day Massacre (1572) and during the French Wars of Religion (1562–1598).
-- Internal migration from rural areas to urban centers like Amsterdam fueled the growth of trade and industry.
-  - This trend accelerated during the late 1500s and early 1600s as cities became hubs of commerce and innovation.
-
-### Key Technologies in terms of MDTC
-
-- **Water power**: The Dutch utilized windmills and advanced water management systems to reclaim land and support agriculture.
-  - These innovations were developed and widely implemented during the 1500s and 1600s, particularly as part of the Dutch Golden Age (1580s–1670s).
-- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more SADAT for them.
-
-### Key Resources
-
-- **Food**: The Netherlands imported grain from the Baltic region, ensuring food security despite limited arable land.
-  - This trade was most prominent during the 1500s and 1600s, facilitated by the Dutch dominance in maritime trade.
-- **Energy**: Peat was a critical energy resource, used for heating and industrial processes.
-  - Peat extraction and usage were significant from the late 1500s onward.
-
-### Population Density
-
-- The Netherlands had one of the highest population densities in Europe, which necessitated efficient land use and resource management.
-  - By the early 1600s, during the Thirty Years War (1618–1648), the Netherlands had a population density of approximately 50–60 people per square kilometer, one of the highest in Europe.
-- Urbanization and trade networks helped mitigate the pressures of high population density by creating economic opportunities.
-  - _Where they migrated?_: Migration primarily occurred from rural areas to urban centers such as Amsterdam, Rotterdam, and Leiden, which became economic and cultural hubs during this period.
+- The Netherlands became a hub for technological migration due to its openness to skilled migrants and trade connections.
+  - **Huguenots from France**: Religious refugees brought advanced textile manufacturing techniques and financial innovations, significantly boosting Dutch industries.
+    - **Timeline in France**:
+      - 1562–1598: French Wars of Religion create instability and persecution of Protestants.
+      - 1572: St. Bartholomew's Day Massacre forces many Huguenots to flee.
+      - 1598: Edict of Nantes provides temporary relief but is later revoked in 1685, prompting further migration.
+  - **Mediterranean region**: Shipbuilding techniques from Venice and other maritime powers were highly advanced during the Renaissance. The Mediterranean was a center for galley construction and naval innovation, which influenced Dutch shipbuilding practices.
+    - **Timeline in the Mediterranean**:
+      - 1400s–1500s: Venice dominates maritime trade and develops advanced shipbuilding techniques.
+      - 1494–1559: Italian Wars involve major European powers (France, Spain, Holy Roman Empire) fighting for control over Italian territories, disrupting local economies and prompting migration of skilled workers.
+      - 1500s: Decline of Venetian dominance due to Ottoman expansion and competition from Atlantic powers.
+  - **Baltic region**: The Baltic Sea was a hub for timber trade and shipbuilding expertise. Countries like Sweden and Denmark developed robust shipbuilding industries, which contributed to the exchange of knowledge with the Netherlands.
+    - **Timeline in the Baltic**:
+      - 1400s: Hanseatic League facilitates trade and shipbuilding knowledge exchange.
+      - 1521–1523: Swedish War of Liberation ends Danish dominance in Sweden, leading to the rise of Sweden as a regional power.
+      - 1563–1570: Northern Seven Years' War between Denmark-Norway and Sweden disrupts trade but advances military shipbuilding.
+      - 1611–1613: Kalmar War between Denmark-Norway and Sweden over control of the Baltic region.
+  - **Italy**: Italian engineers were renowned for their hydraulic engineering during the Renaissance. Cities like Venice and Florence pioneered water management techniques, including canal systems and flood control, which were later adapted by the Dutch.
+    - **Timeline in Italy**:
+      - 1400s–1500s: Renaissance innovations in hydraulic engineering flourish in cities like Venice and Florence.
+      - 1494–1559: Italian Wars cause political instability, prompting skilled engineers to seek opportunities abroad.
+      - 1500s: Italian engineers begin working abroad, spreading their expertise.
+  - **Germany**: German regions, particularly Saxony, were leaders in mining and water control technologies. Innovations in water wheels and pumps used in mining operations were transferred to the Netherlands and applied to land reclamation and agriculture.
+    - **Timeline in Germany**:
+      - 1400s: Saxony develops advanced mining techniques and water management systems.
+      - 1618–1648: Thirty Years' War devastates German territories, causing widespread destruction and prompting migration of skilled workers to more stable regions like the Netherlands.
+      - 1648: Peace of Westphalia ends the Thirty Years' War, but Germany remains fragmented and economically weakened.
+- Internal migration from rural areas to urban centers like Amsterdam also played a role in concentrating technological expertise and fostering innovation.
