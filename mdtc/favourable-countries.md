@@ -6,6 +6,8 @@ The base of the power shift to renewable resources.
 
 The countries that have a lot of local key resources (food, energy, key production) compared to it's population are called "favourable countries".
 
+The concept of "favourable countries" is appliend only for the turmoil period. During the modern the success is more dependent on the consolidation of power that lead to faster technological development and scale of the production.
+
 In the current turmoil (2020-2050) the list of favourable countries is:
 - Ukraine
 - Canada

@@ -12,3 +12,4 @@ The question of each modern - who will be sacrificed to get the resources for th
 - Church in England under Henry VIII
   - Henry VIII is like Stalin
 
+There is a concept of "second-wave modern" - e.g. the stuff that happened to some countries in the 20th century (Iran, Asian tigers)
