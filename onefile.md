@@ -19,132 +19,34 @@ The Netherlands' trajectory during the First Thirty Years War illustrates the po
 
 ## Analysis in MDTC Terms
 
-- **Turmoil characteristics**:
+The Netherlands can be considered a UDP after the Age of Discovery (1400s–1600s), as its marshy terrain and lack of natural resources initially posed significant challenges to development. However, these constraints were overcome through technological and economic innovation.
 
-  - The Netherlands faced significant challenges, including war with Spain and internal religious divisions.
-  - Despite these challenges, the Dutch Republic capitalized on its strategic location and technological advancements to thrive.
+### Migration
 
-- **Adaptation to turmoil**:
-  - Innovation: The Dutch developed key technologies (e.g., advanced ships, financial systems) that expanded their "space" for development.
-  - Resource efficiency: The Netherlands maximized the use of its limited resources through trade and technological innovation.
-  - Decentralized governance: The Dutch Republic's federal structure allowed for local autonomy and adaptability.
+- The Netherlands became a destination for skilled migrants, including religious refugees (e.g., Huguenots from France) who contributed to its economic and technological development.
+  - This migration occurred primarily in the late 1500s and early 1600s, particularly after the St. Bartholomew's Day Massacre (1572) and during the French Wars of Religion (1562–1598).
+- Internal migration from rural areas to urban centers like Amsterdam fueled the growth of trade and industry.
+  - This trend accelerated during the late 1500s and early 1600s as cities became hubs of commerce and innovation.
 
-## Favourability Analysis
+### Key Technologies in terms of MDTC
 
-The Netherlands' favourability during the First Thirty Years War was shaped by its innovative use of limited resources:
+- **Water power**: The Dutch utilized windmills and advanced water management systems to reclaim land and support agriculture.
+  - These innovations were developed and widely implemented during the 1500s and 1600s, particularly as part of the Dutch Golden Age (1580s–1670s).
+- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more space fot them
 
-- **Strengths**:
+### Key Resources
 
-  - Strategic location and access to maritime trade routes provided economic opportunities.
-  - Advanced shipbuilding and financial systems expanded the Netherlands' "space" for development.
-  - Decentralized governance allowed for adaptability and resilience during conflict.
+- **Food**: The Netherlands imported grain from the Baltic region, ensuring food security despite limited arable land.
+  - This trade was most prominent during the 1500s and 1600s, facilitated by the Dutch dominance in maritime trade.
+- **Energy**: Peat was a critical energy resource, used for heating and industrial processes.
+  - Peat extraction and usage were significant from the late 1500s onward.
 
-- **Weaknesses**:
-  - Limited natural resources required the Netherlands to rely heavily on trade and innovation.
-  - High population density created resource pressures, necessitating efficient resource use.
+### Population Density
 
-## Outcomes
-
-- The Netherlands emerged from the First Thirty Years War as a leading global power, demonstrating the potential for economic and technological transformation during turmoil periods.
-- Its success highlights the importance of innovation, trade, and decentralized governance in navigating the challenges of the MDTC turmoil phase.
-
-## Impact on Outcome
-
-The Netherlands' ability to maximize its limited favourability led to its rise as a global power:
-
-- Innovation and trade allowed the Dutch Republic to thrive despite the challenges of war.
-- The Netherlands emerged as a leading economic and maritime power, demonstrating the potential for transformation during turmoil periods.
-@@@ ./mdtc/1-30-w/spain.md
-# Spain during the First Thirty Years War
-
-Spain, as a dominant power during the First Thirty Years War, represents a classic example of a country at the peak of its Modern phase in the MDTC framework. However, its trajectory during this period also highlights the challenges of overextension and resource depletion.
-
-## Context
-
-- **Global empire**: Spain's vast empire included territories in Europe, the Americas, and Asia, providing access to immense resources.
-- **Key technologies**: Spain leveraged key technologies such as advanced naval capabilities and gunpowder to dominate global trade and warfare.
-- **Resource dependency**: Spain's economy heavily relied on silver and gold from its colonies, which fueled its military and political ambitions.
-
-## Analysis in MDTC Terms
-
-- **Modern characteristics**:
-
-  - Spain's consolidation of power was driven by its control over non-renewable resources (e.g., precious metals).
-  - The influx of wealth from colonies accelerated technological and social changes but also created economic imbalances (e.g., inflation, neglect of local industries).
-
-- **Transition to turmoil**:
-  - Overextension: Spain's vast empire became increasingly difficult to manage and defend, leading to military defeats and territorial losses.
-  - Resource depletion: The flow of silver and gold from the Americas began to decline, undermining Spain's economic base.
-  - Internal fragmentation: Regional tensions (e.g., Catalonia, Portugal) and religious conflicts weakened central authority.
-
-## Favourability Analysis
-
-Spain's favourability during the First Thirty Years War was mixed:
-
-- **Strengths**:
-
-  - Access to vast colonial resources (silver, gold, and agricultural products) provided Spain with significant economic and military power.
-  - Advanced naval technology and control over key trade routes allowed Spain to project power globally.
-
-- **Weaknesses**:
-  - Overreliance on non-renewable resources from colonies created economic vulnerabilities, especially as resource flows declined.
-  - High population density in core territories strained local resources, leading to social and economic pressures.
-  - Internal fragmentation, including regional tensions and religious conflicts, weakened central authority.
-
-## Outcomes
-
-- Spain's decline during the First Thirty Years War marked the beginning of its transition from a dominant Modern power to a less influential player in the European system.
-- The inability to adapt to resource limitations and internal challenges exemplifies the risks of overreliance on non-renewable resources during the Modern phase.
-
-## Impact on Outcome
-
-Spain's mixed favourability defined its trajectory during the war:
-
-- While its colonial wealth initially allowed Spain to dominate, the depletion of resources and overextension led to its decline.
-- The inability to adapt to changing circumstances marked the transition from a Modern power to a declining empire.
-@@@ ./mdtc/1-30-w/switzerland.md
-# Switzerland during the First Thirty Years War
-
-Switzerland's experience during the First Thirty Years War highlights the advantages of decentralization and resource self-sufficiency in navigating turmoil periods within the MDTC framework.
-
-## Context
-
-- **Neutrality**: Switzerland remained largely neutral during the war, avoiding direct involvement in the conflict.
-- **Decentralized governance**: The Swiss Confederacy's decentralized structure allowed for local autonomy and resilience.
-- **Resource self-sufficiency**: Switzerland's economy was based on agriculture, trade, and local industries, reducing dependence on external resources.
-
-## Analysis in MDTC Terms
-
-- **Turmoil characteristics**:
-  - Switzerland's decentralized governance model minimized the impact of external conflicts and internal fragmentation.
-  - The reliance on renewable resources and local production provided stability during a period of widespread resource scarcity.
-
-- **Adaptation to turmoil**:
-  - Switzerland's neutrality and strategic location allowed it to benefit from trade and diplomacy while avoiding the costs of war.
-  - The confederation's structure fostered social cohesion and limited the risks of central authority collapse.
-
-## Favourability Analysis
-
-Switzerland's high favourability during the First Thirty Years War contributed to its stability:
-
-- **Strengths**:
-  - Abundance of renewable resources, such as water and arable land, supported self-sufficiency.
-  - Low population density relative to resources ensured that local needs were met without overexploitation.
-  - Decentralized governance and strong local autonomy minimized the impact of external conflicts.
-
-- **Weaknesses**:
-  - Limited access to global trade and resources restricted economic growth compared to larger powers.
-
-## Outcomes
-
-- Switzerland emerged from the First Thirty Years War relatively unscathed, maintaining its stability and independence.
-- Its experience demonstrates the advantages of decentralization and resource self-sufficiency during turmoil periods in the MDTC framework.
-
-## Impact on Outcome
-
-Switzerland's high favourability allowed it to avoid the turmoil experienced by other European powers:
-- Neutrality and resource self-sufficiency ensured stability and resilience.
-- Switzerland emerged from the war relatively unscathed, maintaining its independence and cohesion.
+- The Netherlands had one of the highest population densities in Europe, which necessitated efficient land use and resource management.
+  - By the early 1600s, during the Thirty Years War (1618–1648), the Netherlands had a population density of approximately 50–60 people per square kilometer, one of the highest in Europe.
+- Urbanization and trade networks helped mitigate the pressures of high population density by creating economic opportunities.
+  - _Where they migrated?_: Migration primarily occurred from rural areas to urban centers such as Amsterdam, Rotterdam, and Leiden, which became economic and cultural hubs during this period.
 @@@ ./mdtc/2-30-w/ukraine.md
 # Ukraine in the MDTC Framework
 
@@ -503,132 +405,34 @@ The Netherlands' trajectory during the First Thirty Years War illustrates the po
 
 ## Analysis in MDTC Terms
 
-- **Turmoil characteristics**:
+The Netherlands can be considered a UDP after the Age of Discovery (1400s–1600s), as its marshy terrain and lack of natural resources initially posed significant challenges to development. However, these constraints were overcome through technological and economic innovation.
 
-  - The Netherlands faced significant challenges, including war with Spain and internal religious divisions.
-  - Despite these challenges, the Dutch Republic capitalized on its strategic location and technological advancements to thrive.
+### Migration
 
-- **Adaptation to turmoil**:
-  - Innovation: The Dutch developed key technologies (e.g., advanced ships, financial systems) that expanded their "space" for development.
-  - Resource efficiency: The Netherlands maximized the use of its limited resources through trade and technological innovation.
-  - Decentralized governance: The Dutch Republic's federal structure allowed for local autonomy and adaptability.
+- The Netherlands became a destination for skilled migrants, including religious refugees (e.g., Huguenots from France) who contributed to its economic and technological development.
+  - This migration occurred primarily in the late 1500s and early 1600s, particularly after the St. Bartholomew's Day Massacre (1572) and during the French Wars of Religion (1562–1598).
+- Internal migration from rural areas to urban centers like Amsterdam fueled the growth of trade and industry.
+  - This trend accelerated during the late 1500s and early 1600s as cities became hubs of commerce and innovation.
 
-## Favourability Analysis
+### Key Technologies in terms of MDTC
 
-The Netherlands' favourability during the First Thirty Years War was shaped by its innovative use of limited resources:
+- **Water power**: The Dutch utilized windmills and advanced water management systems to reclaim land and support agriculture.
+  - These innovations were developed and widely implemented during the 1500s and 1600s, particularly as part of the Dutch Golden Age (1580s–1670s).
+- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more space fot them
 
-- **Strengths**:
+### Key Resources
 
-  - Strategic location and access to maritime trade routes provided economic opportunities.
-  - Advanced shipbuilding and financial systems expanded the Netherlands' "space" for development.
-  - Decentralized governance allowed for adaptability and resilience during conflict.
+- **Food**: The Netherlands imported grain from the Baltic region, ensuring food security despite limited arable land.
+  - This trade was most prominent during the 1500s and 1600s, facilitated by the Dutch dominance in maritime trade.
+- **Energy**: Peat was a critical energy resource, used for heating and industrial processes.
+  - Peat extraction and usage were significant from the late 1500s onward.
 
-- **Weaknesses**:
-  - Limited natural resources required the Netherlands to rely heavily on trade and innovation.
-  - High population density created resource pressures, necessitating efficient resource use.
+### Population Density
 
-## Outcomes
-
-- The Netherlands emerged from the First Thirty Years War as a leading global power, demonstrating the potential for economic and technological transformation during turmoil periods.
-- Its success highlights the importance of innovation, trade, and decentralized governance in navigating the challenges of the MDTC turmoil phase.
-
-## Impact on Outcome
-
-The Netherlands' ability to maximize its limited favourability led to its rise as a global power:
-
-- Innovation and trade allowed the Dutch Republic to thrive despite the challenges of war.
-- The Netherlands emerged as a leading economic and maritime power, demonstrating the potential for transformation during turmoil periods.
-@@@ mdtc/1-30-w/spain.md
-# Spain during the First Thirty Years War
-
-Spain, as a dominant power during the First Thirty Years War, represents a classic example of a country at the peak of its Modern phase in the MDTC framework. However, its trajectory during this period also highlights the challenges of overextension and resource depletion.
-
-## Context
-
-- **Global empire**: Spain's vast empire included territories in Europe, the Americas, and Asia, providing access to immense resources.
-- **Key technologies**: Spain leveraged key technologies such as advanced naval capabilities and gunpowder to dominate global trade and warfare.
-- **Resource dependency**: Spain's economy heavily relied on silver and gold from its colonies, which fueled its military and political ambitions.
-
-## Analysis in MDTC Terms
-
-- **Modern characteristics**:
-
-  - Spain's consolidation of power was driven by its control over non-renewable resources (e.g., precious metals).
-  - The influx of wealth from colonies accelerated technological and social changes but also created economic imbalances (e.g., inflation, neglect of local industries).
-
-- **Transition to turmoil**:
-  - Overextension: Spain's vast empire became increasingly difficult to manage and defend, leading to military defeats and territorial losses.
-  - Resource depletion: The flow of silver and gold from the Americas began to decline, undermining Spain's economic base.
-  - Internal fragmentation: Regional tensions (e.g., Catalonia, Portugal) and religious conflicts weakened central authority.
-
-## Favourability Analysis
-
-Spain's favourability during the First Thirty Years War was mixed:
-
-- **Strengths**:
-
-  - Access to vast colonial resources (silver, gold, and agricultural products) provided Spain with significant economic and military power.
-  - Advanced naval technology and control over key trade routes allowed Spain to project power globally.
-
-- **Weaknesses**:
-  - Overreliance on non-renewable resources from colonies created economic vulnerabilities, especially as resource flows declined.
-  - High population density in core territories strained local resources, leading to social and economic pressures.
-  - Internal fragmentation, including regional tensions and religious conflicts, weakened central authority.
-
-## Outcomes
-
-- Spain's decline during the First Thirty Years War marked the beginning of its transition from a dominant Modern power to a less influential player in the European system.
-- The inability to adapt to resource limitations and internal challenges exemplifies the risks of overreliance on non-renewable resources during the Modern phase.
-
-## Impact on Outcome
-
-Spain's mixed favourability defined its trajectory during the war:
-
-- While its colonial wealth initially allowed Spain to dominate, the depletion of resources and overextension led to its decline.
-- The inability to adapt to changing circumstances marked the transition from a Modern power to a declining empire.
-@@@ mdtc/1-30-w/switzerland.md
-# Switzerland during the First Thirty Years War
-
-Switzerland's experience during the First Thirty Years War highlights the advantages of decentralization and resource self-sufficiency in navigating turmoil periods within the MDTC framework.
-
-## Context
-
-- **Neutrality**: Switzerland remained largely neutral during the war, avoiding direct involvement in the conflict.
-- **Decentralized governance**: The Swiss Confederacy's decentralized structure allowed for local autonomy and resilience.
-- **Resource self-sufficiency**: Switzerland's economy was based on agriculture, trade, and local industries, reducing dependence on external resources.
-
-## Analysis in MDTC Terms
-
-- **Turmoil characteristics**:
-  - Switzerland's decentralized governance model minimized the impact of external conflicts and internal fragmentation.
-  - The reliance on renewable resources and local production provided stability during a period of widespread resource scarcity.
-
-- **Adaptation to turmoil**:
-  - Switzerland's neutrality and strategic location allowed it to benefit from trade and diplomacy while avoiding the costs of war.
-  - The confederation's structure fostered social cohesion and limited the risks of central authority collapse.
-
-## Favourability Analysis
-
-Switzerland's high favourability during the First Thirty Years War contributed to its stability:
-
-- **Strengths**:
-  - Abundance of renewable resources, such as water and arable land, supported self-sufficiency.
-  - Low population density relative to resources ensured that local needs were met without overexploitation.
-  - Decentralized governance and strong local autonomy minimized the impact of external conflicts.
-
-- **Weaknesses**:
-  - Limited access to global trade and resources restricted economic growth compared to larger powers.
-
-## Outcomes
-
-- Switzerland emerged from the First Thirty Years War relatively unscathed, maintaining its stability and independence.
-- Its experience demonstrates the advantages of decentralization and resource self-sufficiency during turmoil periods in the MDTC framework.
-
-## Impact on Outcome
-
-Switzerland's high favourability allowed it to avoid the turmoil experienced by other European powers:
-- Neutrality and resource self-sufficiency ensured stability and resilience.
-- Switzerland emerged from the war relatively unscathed, maintaining its independence and cohesion.
+- The Netherlands had one of the highest population densities in Europe, which necessitated efficient land use and resource management.
+  - By the early 1600s, during the Thirty Years War (1618–1648), the Netherlands had a population density of approximately 50–60 people per square kilometer, one of the highest in Europe.
+- Urbanization and trade networks helped mitigate the pressures of high population density by creating economic opportunities.
+  - _Where they migrated?_: Migration primarily occurred from rural areas to urban centers such as Amsterdam, Rotterdam, and Leiden, which became economic and cultural hubs during this period.
 @@@ mdtc/2-30-w/ukraine.md
 # Ukraine in the MDTC Framework
 
