@@ -2,3 +2,8 @@ markdown: kramdown
 theme: minima
 minima:
   include_nav: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
