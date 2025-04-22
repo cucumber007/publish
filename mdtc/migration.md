@@ -7,7 +7,7 @@ Migration plays a critical role in the Model of Development of Technological Civ
 In modern periods, migration is often driven by the rapid expansion of industrial centers and the need for labor. Key characteristics include:
 
 - **Urbanization**: People move from rural areas to cities to work in industries powered by [key technologies](key-tech.md).
-- **Colonization**: Migration to newly discovered or underdeveloped "spaces" (e.g., the Americas during the Age of Discovery) to exploit resources and expand economic activity.
+- **Colonization**: Migration to newly discovered or underdeveloped SADAT (e.g., the Americas during the Age of Discovery) to exploit resources and expand economic activity.
 - **Forced migration**: In some cases, groups are displaced or relocated to facilitate modernization efforts (e.g., the transatlantic slave trade, forced collectivization in the USSR).
 
 Migration during modern periods often accelerates development by concentrating labor and resources in areas of high productivity.
@@ -32,7 +32,7 @@ Favourable countries often become destinations for migrants during turmoil perio
 
 ## Historical Examples
 
-- **European migration to the Americas**: During the Age of Discovery, migration to the Americas provided new space for development and alleviated resource pressures in Europe.
+- **European migration to the Americas**: During the Age of Discovery, migration to the Americas provided new SADAT for development and alleviated resource pressures in Europe.
 - **Post-World War II migration**: Displaced populations in Europe relocated to more stable regions, contributing to reconstruction and economic growth.
 - **Current turmoil (2020–2050)**: Migration from non-favourable countries (e.g., parts of Africa, the Middle East) to favourable countries (e.g., Canada, Scandinavia) is expected to increase as resource scarcity and instability worsen.
 

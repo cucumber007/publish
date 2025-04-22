@@ -12,9 +12,9 @@
 
 Non-renewable give a temporary much greater speed of development because in unlocks the temporary boost the science progress in [key technologies](key-tech.md).
 
-The space is required for development, expecially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough space, the people start to fight each other for the available space (e.g. World War II - Juri Gagarin didn't discover the new "America" in space).
+The SADAT is required for development, especially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough SADAT, the people start to fight each other for the available SADAT (e.g. World War II - Juri Gagarin didn't discover the new "America" in SADAT).
 
-The discoveries of new spaces ease the wars and give the energy a way to exit the system and be applied to the development of the new spaces.
+The discoveries of new SADAT ease the wars and give the energy a way to exit the system and be applied to the development of the new SADAT.
 
 Each modern seem to be have the information revolution closer to the end. The information revolution is a period of rapid technological and social change caused by the introduction of new information technologies.
 
@@ -55,7 +55,7 @@ The moderns are period of development that is similar to laminar flow in water a
 - Age of Enlightenment / Industrial Revolution (Modern)
 
   - 1760 – 2020
-  - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more space would be available for development)
+  - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more SADAT would be available for development)
   - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
   - 1920
     - After World War I, companies that made tanks started making tractors
@@ -64,9 +64,9 @@ The moderns are period of development that is similar to laminar flow in water a
     - Unemployment
     - People fled to the USA
     - 1923 - US closed the borders for migrants
-    - If that wouldn't happen, there probably wouldn't be World War II (more space would be available for development)
+    - If that wouldn't happen, there probably wouldn't be World War II (more SADAT would be available for development)
   - 1930
-    - Dust storms in the USA due to the fucked up use of agricultural land
+    - Dust storms in the USA due to the messed-up use of agricultural land
     - Classic of moderns - total burn out of resources aiming to get the maximum speed of development
   - Information revolution
     - 1910 – 2020
