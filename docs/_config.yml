@@ -1,2 +1,4 @@
 markdown: kramdown
 theme: minima
+minima:
+  include_nav: false
