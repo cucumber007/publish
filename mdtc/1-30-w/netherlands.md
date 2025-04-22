@@ -23,7 +23,7 @@ The Netherlands can be considered a UDP after the Age of Discovery (1400s–1600
 
 - **Water power**: The Dutch utilized windmills and advanced water management systems to reclaim land and support agriculture.
   - These innovations were developed and widely implemented during the 1500s and 1600s, particularly as part of the Dutch Golden Age (1580s–1670s).
-- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more space fot them
+- **Shipbuilding**: The Dutch became leaders in shipbuilding technology, creating more SADAT for them.
 
 ### Key Resources
 
