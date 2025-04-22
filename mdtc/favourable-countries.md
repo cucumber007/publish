@@ -4,39 +4,9 @@ During the turmoil, countries "fall to their resource basis"—globalization end
 
 The countries that have a high ratio of local key resources (food, energy, key production) to their population are called "favourable countries." These countries are better positioned to maintain stability and preserve societal structures during the turmoil.
 
-## Characteristics of favourable countries:
-
-- **Abundance of renewable resources**: Access to water, arable land, and renewable energy sources.
-- **Low population density**: Ensures that resources are sufficient to meet the needs of the population.
-- **Geographical advantages**: Natural barriers or isolation that protect against external conflicts.
-- **Self-sufficiency**: Ability to produce essential goods locally, reducing dependence on imports.
-
-The concept of "favourable countries" applies only during the turmoil period. In the modern period, success depends more on the consolidation of power, technological development, and production scale.
-
 ## Measuring Country Favourability
 
-Country favourability can be measured using the following criteria:
-
-1. **Resource-to-Population Ratio**:
-
-   - Calculate the availability of key resources (e.g., food, energy, water) per capita.
-   - Higher ratios indicate better favourability.
-
-2. **Renewable Resource Availability**:
-
-   - Assess the abundance of renewable resources such as arable land, freshwater, and renewable energy sources.
-   - Countries with higher renewable resource availability score better.
-
-3. **Population Density**:
-
-   - Evaluate the population density relative to resource availability.
-   - Lower population density with sufficient resources indicates higher favourability.
-
-4. **Self-Sufficiency Index**:
-   - Measure the ability to produce essential goods locally, reducing dependence on imports.
-   - Higher self-sufficiency scores improve favourability.
-
-By combining these factors into a composite index, countries can be ranked based on their ability to maintain stability and development during turmoil periods.
+Country favourability can be measured by dividing SADAT by population.
 
 In the current turmoil (2020-2050) the list of favourable countries and areas is:
 
