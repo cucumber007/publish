@@ -4,15 +4,17 @@
 2. [Smuta](smuta.md) - a period of social and political instability
 3. [Stable development](stable.md) - a period of relative stability and gradual change
 
-| Period             | Priority of Resources                                            |
-| ------------------ | ---------------------------------------------------------------- |
-| Modern             | Non-renewable resources                                          |
-| Smuta              | Mixed (caused by the transition from non-renewable to renewable) |
-| Stable development | Renewable resources                                              |
+| Period             | Key competing advantage  | Priority of Resources                                           |
+| ------------------ | ------------------------ | --------------------------------------------------------------- |
+| Modern             | Consolidation of power   | Non-renewable resources                                         |
+| Smuta              | Resource base            | Mixed (caused by the transition from non-renewable to renewable)|
+| Stable development | Renewable resources      | Renewable resources                                             |
 
-Non-renewable give a temporary much greater speed of development because in unlocks the temporary boost the science progress in [key technologies](key-tech.md).
+Why does this switch happen?
 
-The SADAT is required for development, especially during moderns. If there is enough of it (e.g. America is discovered), the people start to actively (and aggressively) explore it. If there is not enough SADAT, the people start to fight each other for the available SADAT (e.g. World War II - Juri Gagarin didn't discover the new "America" in SADAT).
+During the modern the key competing advantage is the consolidation of power, which usually works better with non-renewable resources (you can get them faster and easier and use for consolidation that leads to speeding up the progress in [key technologies](key-tech.md) that leads to even more consolidation of power). 
+
+The [SADAT](sadat.md) is required for development. If there is enough of it (e.g. America is discovered and waiting to be explored), the people start to actively (and aggressively) explore it. If there is not enough SADAT, the people start to fight each other for the available SADAT (e.g. World War II - Juri Gagarin didn't discover the new "America" in SADAT, or Thirty Years War)
 
 The discoveries of new SADAT ease the wars and give the energy a way to exit the system and be applied to the development of the new SADAT.
 
@@ -34,8 +36,6 @@ The moderns are period of development that is similar to laminar flow in water a
     - Information revolution
         - 1450? – 1618
         - Printing press
-- Reformation (?)
-    - 1517 – 1648
 - Thirty Years War (Smuta)
     - 1618 – 1648
 - Unknown stable development (Stable development)

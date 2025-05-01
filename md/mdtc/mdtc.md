@@ -8,7 +8,7 @@ The MDTC theory posits that the development of civilizations follows a cyclical 
 - **Smuta**: A transitional phase marked by instability, as societies struggle to adapt to the depletion of non-renewable resources, absense of SADAT for getting new resources, and the limitations of existing technologies.
 - **Stable Development**: A phase of relative equilibrium, where societies rely on renewable resources and maintain slower, more sustainable progress.
 
-The theory emphasizes the importance of "SADAT" (resources available for development with current technology) and "key technologies" (those that significantly increase labor efficiency) in shaping the trajectory of civilizations.
+The theory emphasizes the importance of [Space Available for Development with Achieved level of Technology (SADAT)](sadat.md) and [key technologies](key-tech.md) (those that significantly increase labor efficiency) in shaping the trajectory of civilizations.
 
 смута останавливается не из-за грандиозной идеи или проекта
 а в качестве фиксации момента когда дальше падать уже некуда

@@ -1,6 +1,6 @@
 # Space Available for Development with Available Technology (SADAT)
 
-Space Available for Development with Available Technology (SADAT) is defined as the physical area and resources available for development with current technology. It includes both renewable resources (e.g., sunlight, water) and non-renewable resources (e.g., minerals, fossil fuels).
+Space Available for Development with Achieved level of Technology (SADAT) is defined as the physical area and resources available for development with current technology (for the entity being considered, e.g., a country). It includes both renewable resources (e.g., sunlight, water) and non-renewable resources (e.g., minerals, fossil fuels).
 
 Inventing a [key technology](key-tech.md) is a way to increase the amount of SADAT. Key technologies unlock new resources or make existing resources more accessible and efficient to use.
 
@@ -13,25 +13,25 @@ Or when shipbuilding technology improved, the amount of SADAT increased by allow
 Key resources is the resources that are used by [key technologies](key-tech.md) to maintain the population.
 
 Renewable resources:
-- People
+- People's labor
 - Water (if used sustainably)
 - Sunlight, land
 
 | Resource | Key technology | 
 | --------- | ---------------- |
-| People | Religion |
+| People's labor | ? |
 | Water | Water wheel, Hydro-electric dam |
 | Sunlight, land | Plants, animals, solar panels |
 
 Non-renewable resources:
 - Wood (if not used sustainably)
 - Fossil fuels
-- People (if not used sustainably)
-- Soil (if not used sustainably)
+- People's labor (if not used sustainably)
+- Substances in the soil (if not used sustainably)
 
 | Resource | Key technology |
 | --------- | ---------------- |
-| People | Religion |
+| People's labor | Religion |
 | Wood | Iron axe, Steam engine |
 | Coal | Steam engine |
 | Oil | Internal combustion engine |
@@ -40,8 +40,8 @@ Non-renewable resources:
 
 To measure the SADAT:
 
-1. Take an area
-2. Identify the key resources in that area
+1. Take an entity (e.g. country) for which the availability will be measured
+2. Identify the key resources in the available area
 3. Map the key resources to the available key technologies and remove the items that are not available
 4. Calculate the weigted sum of the remaining key resources
 5. Divide the weighted sum by the population of the area
