@@ -2,6 +2,7 @@ alias m := merge-md
 alias o := open
 alias s := serve
 alias u := unmerge-md
+alias b := build
 
 merge-md:
     #!/usr/bin/env sh
@@ -24,7 +25,7 @@ open:
     open docs/index.html
 
 serve:
-    
+    mkdocs serve
 
 unmerge-md:
     #!/usr/bin/env sh
@@ -32,6 +33,9 @@ unmerge-md:
 
     # Split onefile.md into individual files
     awk '/^@@@ / {out=substr($0, 5); gsub("^\\./", "", out); print "Splitting: " out; close(out)} !/^@@@ / {if (out) print > out}' onefile.md
+
+build:
+    mkdocs build
 
 
 

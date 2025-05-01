@@ -1,0 +1,5 @@
+site_name: Documentation
+docs_dir: md
+site_dir: docs
+theme: mkdocs
+use_directory_urls: false
