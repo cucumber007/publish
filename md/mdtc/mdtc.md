@@ -1,4 +1,4 @@
-This section describes the Model of Development of Technological Civilization (MDTC) and its key concepts.
+This section describes the Model of the Development of Technological Civilization (MDTC) and its key concepts.
 
 [Basic cycle of technological civilization](cycle.md)
 

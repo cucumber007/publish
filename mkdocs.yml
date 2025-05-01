@@ -3,3 +3,8 @@ docs_dir: md
 site_dir: docs
 theme: mkdocs
 use_directory_urls: false
+
+markdown_extensions:
+    - extra
+    - sane_lists
+    - nl2br
