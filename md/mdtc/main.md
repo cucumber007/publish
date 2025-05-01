@@ -1,19 +1,18 @@
 ---
 title: MDTC Documentation
-layout: default
 ---
 
 This repo is a collection of docs that serve to experiment with AI-based analytics.
 
-It's goal to provide an industry-level detalization to a civilization-level theory authored by Vladimir Stus and called The Model of Development of Technological Civilization (Модель Развития Технологической Цивилизации).
+Its goal to provide an industry-level detalization to a civilization-level theory authored by Vladimir Stus and called The Model of Development of Technological Civilization (Модель Развития Технологической Цивилизации).
 
 ## Pages
 
 - [Basic cycle of technological civilization](cycle.md)
 - [Modern](modern.md)
-- [Turmoil](turmoil.md)
+- [Smuta](smuta.md)
 - [Stable Development](stable.md)
-- [Space Available for Development with Available Technology (SADAT)](space.md)
+- [Space Available for Development with Available Technology (SADAT)](sadat.md)
 - [Key technologies](key-tech.md)
 - [Migration](migration.md)
 - [Favourable countries](favourable-countries.md)

@@ -1,13 +1,13 @@
 # Basic cycle of technological civilization
 
 1. [Modern](modern.md) - a period of rapid technological and social change
-2. [Turmoil](turmoil.md) - a period of social and political instability
+2. [Smuta](smuta.md) - a period of social and political instability
 3. [Stable development](stable.md) - a period of relative stability and gradual change
 
 | Period             | Priority of Resources                                            |
 | ------------------ | ---------------------------------------------------------------- |
 | Modern             | Non-renewable resources                                          |
-| Turmoil            | Mixed (caused by the transition from non-renewable to renewable) |
+| Smuta              | Mixed (caused by the transition from non-renewable to renewable) |
 | Stable development | Renewable resources                                              |
 
 Non-renewable give a temporary much greater speed of development because in unlocks the temporary boost the science progress in [key technologies](key-tech.md).
@@ -18,16 +18,16 @@ The discoveries of new SADAT ease the wars and give the energy a way to exit the
 
 Each modern seem to be have the information revolution closer to the end. The information revolution is a period of rapid technological and social change caused by the introduction of new information technologies.
 
-The theory assumes a non-linear progression of "modern," "turmoil," and "stable development," which may have overlapping or cyclical patterns and depend on the place where the params are measured (like a water flow), but for the sake of simplicity, the theory is presented in a semi-linear "single-wave" format.
+The theory assumes a non-linear progression of "modern," "smuta," and "stable development," which may have overlapping or cyclical patterns and depend on the place where the params are measured (like a water flow), but for the sake of simplicity, the theory is presented in a semi-linear "single-wave" format.
 
-The moderns are period of development that is similar to laminar flow in water and gases, and the turmoils are similar to turbulent flow.
+The moderns are period of development that is similar to laminar flow in water and gases, and the smutas are similar to turbulent flow.
 
 - Age of Vikings / Age of Crusades (Modern)
 
   - 1095 – 1291
   - Information revolution?
 
-- Unknown turmoil (Turmoil)
+- Unknown smuta (Smuta)
 
   - ???
 
@@ -44,7 +44,7 @@ The moderns are period of development that is similar to laminar flow in water a
 
   - 1517 – 1648
 
-- Thirty Years War (Turmoil)
+- Thirty Years War (Smuta)
 
   - 1618 – 1648
 
@@ -56,7 +56,7 @@ The moderns are period of development that is similar to laminar flow in water a
 
   - 1760 – 2020
   - 1890 - if the new America was discovered near this period, there wouldn't be World War I (more SADAT would be available for development)
-  - Great Depression wasn't a turmoil but more of a future-shock of the fast technological development
+  - Great Depression wasn't a smuta but more of a future-shock of the fast technological development
   - 1920
     - After World War I, companies that made tanks started making tractors
     - It increased labor productivity
@@ -75,6 +75,5 @@ The moderns are period of development that is similar to laminar flow in water a
     - Television
     - Internet
 
-- Second Thirty Years War (Turmoil)
+- Second Thirty Years War (Smuta)
   - 2020 – 2050?
-

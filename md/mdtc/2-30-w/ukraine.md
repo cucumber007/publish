@@ -1,6 +1,6 @@
 # Ukraine during the Second Thirty Years War
 
-Ukraine's trajectory during the Second Thirty Years War (2020–2050) mirrors the experiences of the Netherlands and Switzerland during earlier periods of turmoil. From being a UDP in the 1990s, Ukraine transitioned into a favorable country, attracting refugees and leveraging its key resources to maintain stability amidst global chaos.
+Ukraine's trajectory during the Second Thirty Years War (2020–2050) mirrors the experiences of the Netherlands and Switzerland during earlier periods of smuta. From being a UDP in the 1990s, Ukraine transitioned into a favorable country, attracting refugees and leveraging its key resources to maintain stability amidst global chaos.
 
 ## Timeline
 
@@ -10,7 +10,7 @@ Ukraine's trajectory during the Second Thirty Years War (2020–2050) mirrors th
 | 2004 | The Orange Revolution highlights Ukraine's struggle for democratic reforms and political stability.     |
 | 2014 | Annexation of Crimea and conflict in Eastern Ukraine lead to economic and social upheaval.              |
 | 2022 | Full-scale invasion by Russia accelerates Ukraine's shift toward self-reliance and Western integration. |
-| 2025 | Global turmoil begins, with Ukraine emerging as a hub for refugees and technological innovation.        |
+| 2025 | Global smuta begins, with Ukraine emerging as a hub for refugees and technological innovation.          |
 | 2030 | Ukraine stabilizes its economy through agricultural exports and renewable energy development.           |
 | 2035 | Expansion of nuclear energy infrastructure, leveraging domestic uranium resources.                      |
 | 2040 | Ukraine becomes a regional leader in sustainable resource management and technological adaptation.      |
@@ -22,14 +22,14 @@ Ukraine was considered a UDP in the 1990s due to its reliance on outdated Soviet
 
 ## SADAT Timeline
 
-SADAT changes in Ukraine were driven by advancements in agriculture, renewable energy, and its ability to attract skilled migrants during global turmoil.
+SADAT changes in Ukraine were driven by advancements in agriculture, renewable energy, and its ability to attract skilled migrants during global smuta.
 
 | Year | SADAT change description                                                                                     |
 | ---- | ------------------------------------------------------------------------------------------------------------ |
 | 1991 | Limited SADAT due to outdated infrastructure and inefficient resource use.                                   |
 | 2000 | Agricultural reforms and increased grain exports enhance SADAT.                                              |
 | 2014 | Conflict in Eastern Ukraine disrupts resource access but accelerates innovation in energy independence.      |
-| 2025 | Global turmoil leads to an influx of refugees, bringing skills and labor that increase SADAT.                |
+| 2025 | Global smuta leads to an influx of refugees, bringing skills and labor that increase SADAT.                  |
 | 2030 | Expansion of renewable energy projects (solar, wind) significantly boosts SADAT.                             |
 | 2040 | Advanced agricultural technologies and sustainable practices maximize resource efficiency.                   |
 | 2050 | Ukraine's SADAT reaches a peak, driven by its role as a regional hub for innovation and resource management. |
@@ -67,9 +67,10 @@ SADAT changes in Ukraine were driven by advancements in agriculture, renewable e
 
 During the Second Thirty Years War, Ukraine attracted refugees and skilled migrants, contributing to its technological and economic resilience.
 
-- **Refugees from conflict zones**: Skilled workers and professionals fleeing turmoil in neighboring regions brought expertise in agriculture, energy, and technology.
+- **Refugees from conflict zones**: Skilled workers and professionals fleeing smuta in neighboring regions brought expertise in agriculture, energy, and technology.
 - **Internal migration**: Movement from rural to urban areas concentrated technological expertise in cities like Kyiv and Lviv, fostering innovation.
 - **Migration sources**:
+
   - **European Union**: The collapse of the EU and fragmentation of countries like France and Germany result in migration of skilled labor to more favorable regions.
   - **Russia**: Continued instability and resource depletion drive migration from Russia to Ukraine.
   - **Middle East**: Continued instability and resource depletion drive migration from countries like Syria, Iraq, and Iran.
@@ -84,4 +85,3 @@ During the Second Thirty Years War, Ukraine attracted refugees and skilled migra
   - **2025**: Refugees from neighboring countries begin arriving in Ukraine, seeking stability and opportunities.
   - **2030**: Skilled migrants from fragmented regions like EU, India, China contribute to advancements in agriculture, energy, and technology.
   - **2040**: Urban centers become hubs for technological innovation and sustainable development.
-

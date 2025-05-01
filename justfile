@@ -1,4 +1,6 @@
 alias m := merge-md
+alias o := open
+alias s := serve
 alias u := unmerge-md
 
 merge-md:
@@ -18,9 +20,18 @@ merge-md:
         cat "$file" >> onefile.md; \
     done
 
+open:
+    open docs/index.html
+
+serve:
+    
+
 unmerge-md:
     #!/usr/bin/env sh
     set -euo pipefail
 
     # Split onefile.md into individual files
     awk '/^@@@ / {out=substr($0, 5); gsub("^\\./", "", out); print "Splitting: " out; close(out)} !/^@@@ / {if (out) print > out}' onefile.md
+
+
+

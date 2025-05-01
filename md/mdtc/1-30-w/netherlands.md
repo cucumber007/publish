@@ -1,6 +1,6 @@
 # Netherlands during the First Thirty Years War
 
-The Netherlands' trajectory during the First Thirty Years War illustrates the potential for innovation and economic transformation during turmoil periods in the MDTC framework.
+The Netherlands' trajectory during the First Thirty Years War illustrates the potential for innovation and economic transformation during smuta periods in the MDTC framework.
 
 ## Timeline
 
