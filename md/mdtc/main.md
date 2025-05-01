@@ -8,15 +8,15 @@ Its goal to provide an industry-level detalization to a civilization-level theor
 
 ## Pages
 
+- [MDTC Overview](mdtc.md)
+- [Space Available for Development with Available Technology (SADAT)](sadat.md)
+- [Key technologies](key-tech.md)
 - [Basic cycle of technological civilization](cycle.md)
 - [Modern](modern.md)
 - [Smuta](smuta.md)
-- [Stable Development](stable.md)
-- [Space Available for Development with Available Technology (SADAT)](sadat.md)
-- [Key technologies](key-tech.md)
-- [Migration](migration.md)
 - [Favourable countries](favourable-countries.md)
-- [MDTC Overview](mdtc.md)
+- [Migration](migration.md)
+- [Stable Development](stable.md)
 - [Ukraine during the Second Thirty Years War](2-30-w/ukraine.md)
 - [Switzerland during the First Thirty Years War](1-30-w/switzerland.md)
 - [Netherlands during the First Thirty Years War](1-30-w/netherlands.md)
