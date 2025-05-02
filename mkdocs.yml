@@ -1,5 +1,5 @@
 site_name: Publish
 docs_dir: md
 site_dir: docs
-theme: mkdocs
+theme: readthedocs
 use_directory_urls: false
