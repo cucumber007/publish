@@ -3,6 +3,7 @@ alias o := open
 alias s := serve
 alias u := unmerge-md
 alias b := build
+alias rs := run-sim
 
 merge-md:
     #!/usr/bin/env sh
@@ -36,6 +37,9 @@ unmerge-md:
 
 build:
     mkdocs build
+
+run-sim:
+    cd mdtc-sim && npm run dev
 
 
 
