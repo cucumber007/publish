@@ -1,0 +1,31 @@
+alias e := export
+
+export:
+    #!/usr/bin/env bash
+    set -euo pipefail
+    
+    # Check if hypersync directory exists
+    if [ ! -d "hypersync" ]; then
+        echo "Error: hypersync directory not found"
+        exit 1
+    fi
+    
+    # Get all markdown files from hypersync directory and subdirectories
+    files=$(find hypersync -type f -name "*.md" | sort)
+    
+    if [ -z "$files" ]; then
+        echo "Error: No markdown files found in hypersync directory"
+        exit 1
+    fi
+    
+    # Combine all files into a single text file
+    echo "Combining files into text..."
+    for file in $files; do
+        echo "=== $(basename "$file") ===" >> export.txt
+        echo "" >> export.txt
+        cat "$file" >> export.txt
+        echo "" >> export.txt
+        echo "" >> export.txt
+    done
+    
+    echo "Text file created successfully at export.txt" 
