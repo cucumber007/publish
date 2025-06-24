@@ -1,0 +1,10 @@
+vc: venv-create
+
+venv-create:
+    python3 -m venv venv
+
+# Open URL with Selenium
+open url:
+    python selenium_open.py {{url}}
+
+
