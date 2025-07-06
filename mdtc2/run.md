@@ -1,0 +1,1 @@
+I paste you pieces of the chat, and you copy it to files like 0.md, 1.md so each file contains 1 author message and 1 chatgpt answer. And format the according to @format.md 

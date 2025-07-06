@@ -1,0 +1,3 @@
+| Md file           | Notion doc title   | Notion doc url                                                          | ChatGPT link                                               |
+|:------------------|:-------------------|:------------------------------------------------------------------------|:-----------------------------------------------------------|
+| intro.md          | Вступ              | https://www.notion.so/22a542509f7c802bb4d2c5e0ff5e1d8f?source=copy_link | https://chatgpt.com/c/685a7346-afa8-8005-9576-de5a65fe38db |
