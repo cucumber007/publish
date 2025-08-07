@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b8026c65bd4ae5cf",
+        "id": "b348b70e92747c43",
         "type": "tabs",
         "children": [
           {
-            "id": "394db7074dced20e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "405fd3ba8e287eb4",
+            "id": "8fdd8696d61f67f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/wh/Що відбувається?.md",
+                "file": "wh/smd/Проект.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Що відбувається?"
-            }
-          },
-          {
-            "id": "62ebe65d2eed0924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/wh/Алгоритм синхронизации группы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Алгоритм синхронизации группы"
+              "title": "Проект"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 476.5
   },
   "right": {
     "id": "742829d20fdaea0b",
@@ -169,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/wh/Алгоритм синхронизации группы.md",
+                "file": "content/Дискурс Хомяка о редукционистах.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Алгоритм синхронизации группы"
+              "title": "Outline of Дискурс Хомяка о редукционистах"
             }
           }
         ],
@@ -193,46 +166,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "62ebe65d2eed0924",
+  "active": "8fdd8696d61f67f1",
   "lastOpenFiles": [
-    "projects/wh/Що відбувається?.md",
-    "projects/wh/Алгоритм синхронизации группы.md",
-    "political/Цифровой анархизм.md",
+    "wh/content/Города и сетевая организация.md",
+    "wh/smd/Проект.md",
+    "wh/Що відбувається?.md",
     "political/concepts/Громада.md",
-    "projects/wh",
+    "wh/Алгоритм синхронизации группы.md",
+    "wh/concepts/Сетевая организация деятельности.md",
+    "wh/concepts/Город.md",
+    "wh/concepts",
+    "misc/content/Дискурс Хомяка о редукционистах.md",
+    "wh/content",
+    "misc/content",
+    "political/content/*Журналісти по типу Шабуніна.md",
+    "meta/Structural Items.md",
+    "mdtc/concepts",
+    "misc",
+    "political/content",
+    "political/content/Цифровой анархизм.md",
+    "meta/Untitled 1.md",
+    "wh/smd/*Деятельность.md",
+    "meta",
+    "mdtc 1",
+    "concepts/network",
+    "wh/smd/СМД.md",
+    "wh/smd",
+    "misc/concepts/*Догоняющая индустриализация.md",
+    "misc/concepts/*Промышленная революция.md",
+    "political/content/*Вакцинация.md",
+    "wh/content/*Капитализм и протестанты.md",
+    "mdtc/thesises/Главный вопрос модерна - за счет кого проводить модернизацию.md",
+    "mdtc/concepts/Модерн.md",
+    "mdtc/thesises/Признак модерна - возвращение к античному канону?.md",
+    "mdtc/concepts/Передача цивилизационного наследия.md",
     "projects/Untitled.md",
-    "projects",
-    "concepts/Мудрість натовпу.md",
-    "personalities/Гюстав Лебон.md",
-    "political/concepts",
-    "concepts/*Emergent replication.md",
-    "political",
-    "concepts/*Модель Розвитку Технологічної Цивілізації.md",
-    "personalities/*Де Мескіто.md",
-    "Де Мескіто.md",
-    "content/*Журналісти по типу Шабуніна.md",
-    "content/Дискурс Хомяка о редукционистах.md",
-    "personalities/Джуліо Тононі.md",
-    "concepts/It from bit.md",
-    "concepts/Integrated Information Theory.md",
-    "concepts/Емерджентний матеріалізм.md",
-    "personalities/Джон Уілер.md",
-    "personalities/Роберт Сапольскі.md",
-    "personalities",
-    "people/groups/Шобла Романенко.md",
-    "concepts/Аналітична філософія.md",
-    "Хомяка.md",
-    "people/Олег Хомяк.md",
-    "concepts/Редукціонізм.md",
-    "thesises",
-    "concepts",
-    "content",
-    "people/groups",
-    "people"
+    "misc/concepts/Мудрість натовпу.md",
+    "misc/personalities/Гюстав Лебон.md",
+    "misc/concepts/*Emergent replication.md"
   ]
 }
