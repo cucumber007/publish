@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b348b70e92747c43",
+        "id": "1c1faf1342020e11",
         "type": "tabs",
         "children": [
           {
-            "id": "8fdd8696d61f67f1",
+            "id": "845103c6883ee477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wh/smd/Проект.md",
+                "file": "wh/content/*чатжпт это библия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проект"
+              "title": "*чатжпт это библия"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 285.5
   },
   "right": {
     "id": "742829d20fdaea0b",
@@ -169,17 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fdd8696d61f67f1",
+  "active": "845103c6883ee477",
   "lastOpenFiles": [
-    "wh/content/Города и сетевая организация.md",
+    "wh/content/*а за шо мы воевали?.md",
+    "wh/content/*чатжпт это библия.md",
+    "wh/content/*время тех кто умеет воевать круговую оборону.md",
+    "wh/content/*мирошник самореализация.md",
+    "wh/content/*разделение да винчи на роли для нескольких человек.md",
+    "misc/content/Дискурс Хомяка о редукционистах.md",
+    "Текст 1.md",
+    "Текст 2.md",
     "wh/smd/Проект.md",
+    "wh/content/Города и сетевая организация.md",
     "wh/Що відбувається?.md",
     "political/concepts/Громада.md",
     "wh/Алгоритм синхронизации группы.md",
     "wh/concepts/Сетевая организация деятельности.md",
     "wh/concepts/Город.md",
     "wh/concepts",
-    "misc/content/Дискурс Хомяка о редукционистах.md",
     "wh/content",
     "misc/content",
     "political/content/*Журналісти по типу Шабуніна.md",
@@ -199,13 +206,6 @@
     "misc/concepts/*Промышленная революция.md",
     "political/content/*Вакцинация.md",
     "wh/content/*Капитализм и протестанты.md",
-    "mdtc/thesises/Главный вопрос модерна - за счет кого проводить модернизацию.md",
-    "mdtc/concepts/Модерн.md",
-    "mdtc/thesises/Признак модерна - возвращение к античному канону?.md",
-    "mdtc/concepts/Передача цивилизационного наследия.md",
-    "projects/Untitled.md",
-    "misc/concepts/Мудрість натовпу.md",
-    "misc/personalities/Гюстав Лебон.md",
-    "misc/concepts/*Emergent replication.md"
+    "mdtc/thesises/Главный вопрос модерна - за счет кого проводить модернизацию.md"
   ]
 }
