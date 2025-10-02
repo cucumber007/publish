@@ -18,6 +18,8 @@ Also it is a Git repository (synced with GitHub on `cucumber007`) to allow colla
 
 This folder should be placed in Dropbox root to be able to share it's data with ChatGPT.
 
+This folder should be regularly backed up to Syncthing/Projects/publish_backup
+
 ## Structure
 
 - `docs/`
