@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1faf1342020e11",
+        "id": "a0fff34581f26657",
         "type": "tabs",
         "children": [
           {
-            "id": "845103c6883ee477",
+            "id": "3510026e5c1ace9a",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1ab63afabb969bc2",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wh/content/*чатжпт это библия.md",
+                "file": "wh/mmk-smd/Проект.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "*чатжпт это библия"
+              "title": "Проект"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,43 +185,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "845103c6883ee477",
+  "active": "1ab63afabb969bc2",
   "lastOpenFiles": [
-    "wh/content/*а за шо мы воевали?.md",
+    "wh/mmk-smd/источники/Статья - Схема мыследеятельности – системно-структурное строение, смысл и содержание (1986).md",
+    "wh/mmk-smd/источники",
+    "wh/mmk-smd/Проект.md",
+    "wh/mmk-smd/ММК-СМД.md",
+    "wh/mmk-smd/*Деятельность.md",
+    "wh/Точка входа.md",
+    "wh/Рефлексія.md",
+    "wh/Маніфестація Павла.md",
+    "wh/Що відбувається?.md",
+    "wh/Untitled 1.md",
+    "wh/content/а.md",
+    "wh/Алгоритм синхронизации группы.md",
+    "wh/mmk-smd/СМД.md",
+    "wh/mmk-smd/Мыследеятельность.md",
+    "wh/content/*Кальвін і Женева.md",
+    "wh/content/*Мета-теория.md",
     "wh/content/*чатжпт это библия.md",
+    "wh/content/*а за шо мы воевали?.md",
     "wh/content/*время тех кто умеет воевать круговую оборону.md",
     "wh/content/*мирошник самореализация.md",
     "wh/content/*разделение да винчи на роли для нескольких человек.md",
     "misc/content/Дискурс Хомяка о редукционистах.md",
     "Текст 1.md",
     "Текст 2.md",
-    "wh/smd/Проект.md",
     "wh/content/Города и сетевая организация.md",
-    "wh/Що відбувається?.md",
     "political/concepts/Громада.md",
-    "wh/Алгоритм синхронизации группы.md",
     "wh/concepts/Сетевая организация деятельности.md",
-    "wh/concepts/Город.md",
     "wh/concepts",
     "wh/content",
     "misc/content",
-    "political/content/*Журналісти по типу Шабуніна.md",
-    "meta/Structural Items.md",
     "mdtc/concepts",
     "misc",
     "political/content",
-    "political/content/Цифровой анархизм.md",
-    "meta/Untitled 1.md",
-    "wh/smd/*Деятельность.md",
     "meta",
     "mdtc 1",
-    "concepts/network",
-    "wh/smd/СМД.md",
-    "wh/smd",
-    "misc/concepts/*Догоняющая индустриализация.md",
-    "misc/concepts/*Промышленная революция.md",
-    "political/content/*Вакцинация.md",
-    "wh/content/*Капитализм и протестанты.md",
-    "mdtc/thesises/Главный вопрос модерна - за счет кого проводить модернизацию.md"
+    "concepts/network"
   ]
 }
