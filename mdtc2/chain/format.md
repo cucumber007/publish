@@ -1,8 +1,10 @@
 # Format
 
+The chain has folder called `branch_<name>` that contains the messages of certain discussion branch.
+
 Each message is a folder, the folder name is the message number/ID.
 
-The folder contains 2 files:
+The message folder contains 2 files:
 - `user_<ID>.md` - the message from the user with the message ID
 - `x_ai_<ID>.md` - the message from the AI with the message ID
 
