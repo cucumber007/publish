@@ -33,6 +33,7 @@ This folder should be placed in Dropbox root to be able to share it's data with 
     - `.gitignore`
     - `.prettierignore`
     - `LICENSE`
+    - `mkdocs.yml`
     - `package-lock.json`
     - `package.json`
     
