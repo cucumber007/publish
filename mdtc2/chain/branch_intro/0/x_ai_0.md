@@ -1,7 +1,5 @@
-# Author
-Let's assume there is a common principle that predicts the flow of history, let's call it **Model of Development of Technological civilization**
+# ChatGPT (0)
 
-# ChatGPT
 That's an intriguing idea. If we assume there's a **"Model of Development of Technological Civilization" (MDTC)**, we'd be looking for a general principle or framework that governs how civilizations evolve technologically over time—possibly with predictable stages, patterns, or thresholds.
 
 Such a model might include elements like:
