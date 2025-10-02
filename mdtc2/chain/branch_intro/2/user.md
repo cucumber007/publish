@@ -1,4 +1,4 @@
-# User (1)
+# User
 
 Please add less suggestions and listen for more inputs
 

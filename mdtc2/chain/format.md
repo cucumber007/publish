@@ -12,12 +12,12 @@ AI answer has `x` to always appear later when files are sorted alphabetically.
 
 The messages in each files are formatted in markdown.
 
-Header is title, indicating if this is User or AI message, the message ID.
+Header is title, indicating if this is User or AI message.
 
 ## Example
 
 ```markdown
-# User (0)
+# User
 
 Lorem ipsum markdown
 ```
