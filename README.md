@@ -24,8 +24,18 @@ This folder should be placed in Dropbox root to be able to share it's data with 
     - root for Github Pages
 - `library/`
     - contains library of raw materials referenced in other places or just saved for future
+- `public/`
+    - contains publically available materials
+    - all `.md` files from there are published to Github Pages
 - `justfile`
     - contains available commands
+- Various tech files required for repo or doc publishing
+    - `.gitignore`
+    - `.prettierignore`
+    - `LICENSE`
+    - `package-lock.json`
+    - `package.json`
+    
 
 
 
