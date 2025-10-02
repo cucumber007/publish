@@ -2,11 +2,7 @@
 
 
 
-Let's assume there is a common principle that predicts the flow of history, let's call it Model of Development of Technological civilization
 
-So the base for this model is energy and technology. The technology is considered mostly in the form of Key technologies. Key technologies is the technologies that radically increase labor productivity. 
-
-Please add less suggestions and listen for more inputs
 
 What is labor productivity?
 
