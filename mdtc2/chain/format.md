@@ -5,8 +5,8 @@ The chain has folder called `branch_<name>` that contains the messages of certai
 Each message is a folder, the folder name is the message number/ID.
 
 The message folder contains 2 files:
-- `user_<ID>.md` - the message from the user with the message ID
-- `x_ai_<ID>.md` - the message from the AI with the message ID
+- `user.md` - the message from the user
+- `x_ai.md` - the message from the AI
 
 AI answer has `x` to always appear later when files are sorted alphabetically.
 
