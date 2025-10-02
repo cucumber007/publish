@@ -1,9 +1,3 @@
-
-
-
-
-
-
 What is labor productivity?
 
 Formulate it in a energy context

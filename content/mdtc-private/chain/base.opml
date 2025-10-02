@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title></title>
+    <flavor>dynalist</flavor>
+    <source>https://dynalist.io</source>
+    <ownerName>spqrta</ownerName>
+    <ownerEmail>spqrta@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Chain">
+      <outline text="Intro">
+        <outline text="User">
+          <outline text="Let&apos;s assume there is a common principle that predicts the flow of history, let&apos;s call it **Model of Development of Technological civilization**&#10; &#10;Please add less suggestions and listen for more inputs"/>
+        </outline>
+        <outline text="AI">
+          <outline text="Test answer"/>
+          <outline text="123"/>
+          <outline text=""/>
+        </outline>
+        <outline text=""/>
+      </outline>
+    </outline>
+  </body>
+</opml>
