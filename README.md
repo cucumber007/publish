@@ -22,6 +22,8 @@ This folder should be regularly backed up to Syncthing/Projects/publish_backup
 
 ## Structure
 
+- `content/`
+    - contains readable content for various projects
 - `docs/`
     - root for Github Pages
 - `library/`
