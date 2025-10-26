@@ -60,9 +60,19 @@
               "icon": "lucide-file",
               "title": "Малі промислові підприємства"
             }
+          },
+          {
+            "id": "7f075c09ecca1d16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/actors/industrial/Малі промислові підприємства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Малі промислові підприємства"
+              "title": "Backlinks"
             }
           },
           {
@@ -154,12 +163,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/actors/industrial/Малі промислові підприємства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Малі промислові підприємства"
+              "title": "Outgoing links"
             }
           },
           {
@@ -183,13 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/actors/industrial/Малі промислові підприємства.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Малі промислові підприємства"
+              "title": "Outline"
             }
           }
         ]
@@ -210,10 +217,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1857352d144ddc5",
+  "active": "7f075c09ecca1d16",
   "lastOpenFiles": [
-    "content/actors/individual/> Індивідуальні актори.md",
     "content/actors/Актори.md",
+    "content/actors/industrial/Малі промислові підприємства.md",
+    "content/actors/_grouping/Групи акторів.md",
+    "content/actors/_grouping",
+    "content/actors/Групи акторів.md",
+    "content/actors/Актори.csv",
+    "content/actors/Групи акторів.csv",
+    "content/actors/individual/> Індивідуальні актори.md",
     "content/actors/intellectual/> Інтелектуальні актори.md",
     "content/actors/shadow/> Тіньові актори.md",
     "content/actors/institutional/> Інституційні актори.md",
@@ -229,7 +242,6 @@
     "content/actors/institutional/Інституційні актори.md",
     "content/actors/institutional",
     "content/actors/industrial/Середні промислові підприємства.md",
-    "content/actors/industrial/Малі промислові підприємства.md",
     "content/actors/industrial/Промислові актори.md",
     "content/actors/industrial",
     "content/actors/cooperative/Кооперативні структури.md",
@@ -242,9 +254,6 @@
     "content/actors/Інтелектуальні актори.md",
     "content/actors/Тіньові актори.md",
     "content/actors/Інституційні актори.md",
-    "content/actors/Промислові актори.md",
-    "content/actors/Кооперативні структури.md",
-    "content/personas",
-    "content/actors"
+    "content/personas"
   ]
 }
