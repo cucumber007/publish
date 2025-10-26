@@ -1,0 +1,79 @@
+alias b := backup
+alias c := connect
+alias cd := create-database
+alias cl := clear
+alias e := export-data
+alias i := import-data
+alias ld := list-databases
+alias l := logs
+alias q := query
+alias r := restart
+alias rb := restore-backup
+alias s := start
+alias st := stop
+alias sts := status
+
+# Neo4j Community Edition supports only one database called "neo4j"
+DATABASE := "neo4j"
+PASSWORD := "qwerty123"
+USERNAME := "neo4j"
+
+backup:
+    neo4j-admin database backup --database=gasgen --backup-dir=./backups
+
+clear:
+    cypher-shell -d gasgen "MATCH (n) DETACH DELETE n"
+
+connect:
+    cypher-shell -u {{USERNAME}} -p {{PASSWORD}}
+
+create-database:
+    cypher-shell -u {{USERNAME}} -p {{PASSWORD}} "CREATE DATABASE {{DATABASE}} IF NOT EXISTS;"
+
+create-user username password:
+    cypher-shell -d gasgen "CREATE USER {{username}} SET PASSWORD '{{password}}'"
+
+export-data:
+    neo4j-admin database export --database=gasgen --to-path=./exports
+
+import-data:
+    neo4j-admin database import --database=gasgen --nodes=import/nodes.csv --relationships=import/relationships.csv
+
+info:
+    cypher-shell -d gasgen "CALL db.info()"
+
+init:
+    cypher-shell -d gasgen -f schema/init.cypher
+
+list-databases:
+    cypher-shell -u {{USERNAME}} -p {{PASSWORD}} "SHOW DATABASES"
+
+logs:
+    tail -f /opt/homebrew/var/log/neo4j/neo4j.log
+
+query query_file:
+    cypher-shell -d gasgen -f {{query_file}}
+
+restart:
+    neo4j restart
+
+restore-backup backup_file:
+    neo4j-admin database restore --database=gasgen --from-path={{backup_file}}
+
+setup:
+    just stop
+    neo4j-admin dbms set-initial-password {{PASSWORD}}
+    echo "Neo4j Community Edition supports only one database called 'neo4j'."
+    echo "It is created, check it with 'just list-databases'"
+
+start:
+    neo4j start
+
+stats:
+    cypher-shell -d gasgen "CALL apoc.meta.stats()"
+
+status:
+    neo4j status
+
+stop:
+    neo4j stop
