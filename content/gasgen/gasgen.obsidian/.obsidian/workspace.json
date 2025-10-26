@@ -20,20 +20,49 @@
             }
           },
           {
-            "id": "ae66f4319beabf8e",
+            "id": "266de9132a6342bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/personas/Актори.md",
+                "file": "content/actors/individual/> Індивідуальні актори.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "> Індивідуальні актори"
+            }
+          },
+          {
+            "id": "88c9bea8a3d0bfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/actors/Актори.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Актори"
             }
+          },
+          {
+            "id": "f1857352d144ddc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/actors/industrial/Малі промислові підприємства.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Малі промислові підприємства"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/actors/industrial/Малі промислові підприємства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Малі промислові підприємства"
             }
           },
           {
@@ -124,11 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/actors/industrial/Малі промислові підприємства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Малі промислові підприємства"
             }
           },
           {
@@ -152,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/actors/industrial/Малі промислові підприємства.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Малі промислові підприємства"
             }
           }
         ]
@@ -178,34 +210,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "a16ebb7ad7df5af0",
+  "active": "f1857352d144ddc5",
   "lastOpenFiles": [
-    "content/personas/Актори.md",
-    "Малий бізнес.md",
-    "content/personas/Середні промислові підприємства.md",
-    "content/personas/Малі промислові підприємства.md",
-    "content/Вступ.md",
-    "content/personas/Урядові організації.md",
-    "content/personas/Малий бізнес.md",
-    "content/personas/Домогосподарства.md",
-    "content/personas/Інвестори.md",
-    "content/personas/Промислові підприємства.md",
-    "content/personas/урядові організації.md",
-    "content/personas/інвестори.md",
-    "content/personas/малий бізнес.md",
-    "content/personas/домогосподарства.md",
-    "content/personas/персони.md",
+    "content/actors/individual/> Індивідуальні актори.md",
+    "content/actors/Актори.md",
+    "content/actors/intellectual/> Інтелектуальні актори.md",
+    "content/actors/shadow/> Тіньові актори.md",
+    "content/actors/institutional/> Інституційні актори.md",
+    "content/actors/industrial/> Промислові актори.md",
+    "content/actors/cooperative/> Кооперативні структури.md",
+    "content/actors/individual/Домогосподарства.md",
+    "content/actors/intellectual/Інтелектуальні актори.md",
+    "content/actors/intellectual",
+    "content/actors/shadow/Тіньові актори.md",
+    "content/actors/shadow",
+    "content/actors/institutional/Урядові організації.md",
+    "content/actors/institutional/Інвестори.md",
+    "content/actors/institutional/Інституційні актори.md",
+    "content/actors/institutional",
+    "content/actors/industrial/Середні промислові підприємства.md",
+    "content/actors/industrial/Малі промислові підприємства.md",
+    "content/actors/industrial/Промислові актори.md",
+    "content/actors/industrial",
+    "content/actors/cooperative/Кооперативні структури.md",
+    "content/actors/cooperative",
+    "content/actors/individual/Майстри та технічні ентузіасти.md",
+    "content/actors/individual/Домогосподарства та фермери.md",
+    "content/actors/individual",
+    "content/actors/Майстри та технічні ентузіасти.md",
+    "content/actors/Домогосподарства та фермери.md",
+    "content/actors/Інтелектуальні актори.md",
+    "content/actors/Тіньові актори.md",
+    "content/actors/Інституційні актори.md",
+    "content/actors/Промислові актори.md",
+    "content/actors/Кооперативні структури.md",
     "content/personas",
-    "content/intro.md",
-    "content/personas/personas.md",
-    "content/personas/יצרים.md",
-    "content/personas/malyy biznes.md",
-    "content/personas/domohospodarstva.md",
-    "content/personas/government_agencies.md",
-    "content/personas/investors.md",
-    "content/personas/small_business.md",
-    "content/personas/households.md",
-    "content/personas/investory.md",
-    "content/personas/malyi_biznes.md"
+    "content/actors"
   ]
 }
