@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a16ebb7ad7df5af0",
+            "id": "266de9132a6342bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,63 +20,20 @@
             }
           },
           {
-            "id": "266de9132a6342bc",
+            "id": "47d45677ec1d1de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/actors/individual/> Індивідуальні актори.md",
+                "file": "content/technologies/thermal/Піроліз.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "> Індивідуальні актори"
-            }
-          },
-          {
-            "id": "88c9bea8a3d0bfef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/actors/Актори.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Актори"
-            }
-          },
-          {
-            "id": "f1857352d144ddc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/actors/industrial/Малі промислові підприємства.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Малі промислові підприємства"
-            }
-          },
-          {
-            "id": "7f075c09ecca1d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Юзкейси бази даних.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Юзкейси бази даних"
+              "title": "Піроліз"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Юзкейси бази даних.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Юзкейси бази даних"
+              "title": "Backlinks"
             }
           },
           {
@@ -168,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Юзкейси бази даних.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Юзкейси бази даних"
+              "title": "Outgoing links"
             }
           },
           {
@@ -197,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Юзкейси бази даних.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Юзкейси бази даних"
+              "title": "Outline"
             }
           }
         ]
@@ -224,43 +178,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f075c09ecca1d16",
+  "active": "266de9132a6342bc",
   "lastOpenFiles": [
-    "content/actors/_grouping/Групи акторів.md",
-    "content/Юзкейси бази даних.md",
-    "content/actors/Актори.md",
-    "content/actors/industrial/Малі промислові підприємства.md",
-    "content/actors/_grouping",
-    "content/actors/Групи акторів.md",
-    "content/actors/Актори.csv",
-    "content/actors/Групи акторів.csv",
-    "content/actors/individual/> Індивідуальні актори.md",
-    "content/actors/intellectual/> Інтелектуальні актори.md",
-    "content/actors/shadow/> Тіньові актори.md",
-    "content/actors/institutional/> Інституційні актори.md",
-    "content/actors/industrial/> Промислові актори.md",
-    "content/actors/cooperative/> Кооперативні структури.md",
-    "content/actors/individual/Домогосподарства.md",
-    "content/actors/intellectual/Інтелектуальні актори.md",
-    "content/actors/intellectual",
-    "content/actors/shadow/Тіньові актори.md",
-    "content/actors/shadow",
+    "content/technologies/thermal/Піроліз.md",
     "content/actors/institutional/Урядові організації.md",
-    "content/actors/institutional/Інвестори.md",
-    "content/actors/institutional/Інституційні актори.md",
-    "content/actors/institutional",
-    "content/actors/industrial/Середні промислові підприємства.md",
-    "content/actors/industrial/Промислові актори.md",
-    "content/actors/industrial",
-    "content/actors/cooperative/Кооперативні структури.md",
-    "content/actors/cooperative",
-    "content/actors/individual/Майстри та технічні ентузіасти.md",
-    "content/actors/individual/Домогосподарства та фермери.md",
-    "content/actors/individual",
-    "content/actors/Майстри та технічні ентузіасти.md",
-    "content/actors/Домогосподарства та фермери.md",
-    "content/actors/Інтелектуальні актори.md",
-    "content/actors/Тіньові актори.md",
-    "content/personas"
+    "content/actors/individual/> Індивідуальні актори.md",
+    "content/technologies/renewable-electric/Вітрова енергетика.md",
+    "content/technologies/Технології.md",
+    "content/technologies/other/Сублімація.md",
+    "content/technologies/other/> Інше.md",
+    "content/technologies/other",
+    "content/Вступ.md",
+    "content/technologies/energy-storage/> 🔋 Системи накопичення та перетворення.md",
+    "content/technologies/renewable-electric/> ⚡ Електричні відновлювані технології.md",
+    "content/technologies/thermal/> 🔥 Теплові технології.md",
+    "content/technologies/thermal/> Теплові технології.md",
+    "thermal/Теплові технології.md",
+    "thermal",
+    "content/technologies/energy-storage/Спирт.md",
+    "content/technologies/energy-storage/Водень та метанізація.md",
+    "content/technologies/energy-storage/Теплові акумулятори.md",
+    "content/technologies/energy-storage/Акумулятори.md",
+    "content/technologies/renewable-electric/Мікро- та міні-ГЕС.md",
+    "content/technologies/renewable-electric/Сонячна енергетика.md",
+    "content/technologies/thermal/Біогаз.md",
+    "content/actors/Актори.md",
+    "content/technologies/thermal/Газифікація.md",
+    "content/technologies/thermal/Пряме спалювання.md",
+    "content/technologies/energy-storage/Системи накопичення та перетворення.md",
+    "content/technologies/energy-storage/> Системи накопичення та перетворення.md",
+    "content/technologies/combined-systems/> Комбіновані системи.md",
+    "content/technologies/energy-storage",
+    "content/technologies/combined-systems",
+    "content/technologies/renewable-electric",
+    "content/technologies/thermal",
+    "content/technologies",
+    "content/actors/_grouping",
+    "content/actors/Актори.csv",
+    "content/actors/Групи акторів.csv"
   ]
 }
