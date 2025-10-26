@@ -2,4 +2,7 @@
 alwaysApply: true
 ---
 
-When you are writing a note in Obsidian, use only English in file names, regardles of the language of the note.
+Because filnames are node titles in Obsidian graph view, in Gasgen vault:
+- Use ukrainian language and cyrillic in file names
+- Capitalize the names
+- Don't use underscore or dashes, use spaces
