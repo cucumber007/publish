@@ -11,10 +11,14 @@
             "id": "a16ebb7ad7df5af0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Вступ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вступ"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Вступ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Вступ"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Вступ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Вступ"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/Вступ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Вступ"
             }
           }
         ]
@@ -164,6 +171,12 @@
   },
   "active": "a16ebb7ad7df5af0",
   "lastOpenFiles": [
+    "content/personas/Персони.md",
+    "content/personas/Промислові підприємства.md",
+    "content/personas/Урядові організації.md",
+    "content/personas/Інвестори.md",
+    "content/personas/Малий бізнес.md",
+    "content/personas/Домогосподарства.md",
     "content/Вступ.md",
     "content/personas/урядові організації.md",
     "content/personas/персони.md",
@@ -172,11 +185,6 @@
     "content/personas/інвестори.md",
     "content/personas",
     "content/intro.md",
-    "content/personas/Урядові організації.md",
-    "content/personas/Персони.md",
-    "content/personas/Малий бізнес.md",
-    "content/personas/Домогосподарства.md",
-    "content/personas/Інвестори.md",
     "content/personas/personas.md",
     "content/personas/יצרים.md",
     "content/personas/malyy biznes.md",
