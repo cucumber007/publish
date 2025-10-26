@@ -9,14 +9,10 @@ alias l := logs
 alias q := query
 alias r := restart
 alias rb := restore-backup
-alias s := start
-alias st := stop
-alias sts := status
+alias s := status
+alias v := version
 
-# Neo4j Community Edition supports only one database called "neo4j"
-DATABASE := "neo4j"
-PASSWORD := "qwerty123"
-USERNAME := "neo4j"
+import 'init.justfile'
 
 backup:
     neo4j-admin database backup --database=gasgen --backup-dir=./backups
@@ -41,9 +37,6 @@ import-data:
 
 info:
     cypher-shell -d gasgen "CALL db.info()"
-
-init:
-    cypher-shell -d gasgen -f schema/init.cypher
 
 list-databases:
     cypher-shell -u {{USERNAME}} -p {{PASSWORD}} "SHOW DATABASES"
@@ -77,3 +70,6 @@ status:
 
 stop:
     neo4j stop
+
+version:
+    neo4j version
