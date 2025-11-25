@@ -32,8 +32,65 @@
               "icon": "lucide-file",
               "title": "Піроліз"
             }
+          },
+          {
+            "id": "9234fcdcdbc1406e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/technologies/thermal/Газифікація.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Газифікація"
+            }
+          },
+          {
+            "id": "c6a6177b7420bdbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/standards/АВЕС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "АВЕС"
+            }
+          },
+          {
+            "id": "0797dfafab2d38b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crm/Мусоропереработка Киев.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мусоропереработка Киев"
+            }
+          },
+          {
+            "id": "fd8fb2e9fc64abe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crm/Мусоропереработка Киев.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мусоропереработка Киев"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -90,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5086555480957
   },
   "right": {
     "id": "26ae8017df626569",
@@ -178,9 +235,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "266de9132a6342bc",
+  "active": "fd8fb2e9fc64abe9",
   "lastOpenFiles": [
     "content/technologies/thermal/Піроліз.md",
+    "content/external_models/Маленький піролізний завод.md",
+    "content/technologies/thermal/Пряме спалювання.md",
+    "content/technologies/renewable-electric/> ⚡ Електричні відновлювані технології.md",
+    "crm/Мусоропереработка Киев.md",
+    "content/План.md",
+    "content/technologies/thermal/Газифікація.md",
+    "content/standards/АВЕС.md",
+    "crm/Прийом пластику.md",
+    "media/Pasted image 20251102185049.png",
+    "crm",
+    "content/external_models/Misc.md",
+    "content/external_models/Піроліз шин 3.md",
+    "content/external_models/Піролізний котел.md",
+    "content/external_models/Піроліз шин 2.md",
+    "content/external_models/Піроліз шин.md",
+    "media/Pasted image 20251102185059.png",
+    "thermal/Теплові технології.md",
+    "media",
+    "media/Pasted image 20251102184925.png",
+    "content/external_models",
+    "content/models/АВЕС-1.md",
+    "content/standards",
+    "content/models/Untitled.md",
+    "content/models/Untitled",
+    "content/models",
     "content/actors/institutional/Урядові організації.md",
     "content/actors/individual/> Індивідуальні актори.md",
     "content/technologies/renewable-electric/Вітрова енергетика.md",
@@ -190,31 +272,9 @@
     "content/technologies/other",
     "content/Вступ.md",
     "content/technologies/energy-storage/> 🔋 Системи накопичення та перетворення.md",
-    "content/technologies/renewable-electric/> ⚡ Електричні відновлювані технології.md",
     "content/technologies/thermal/> 🔥 Теплові технології.md",
-    "content/technologies/thermal/> Теплові технології.md",
-    "thermal/Теплові технології.md",
     "thermal",
-    "content/technologies/energy-storage/Спирт.md",
-    "content/technologies/energy-storage/Водень та метанізація.md",
-    "content/technologies/energy-storage/Теплові акумулятори.md",
-    "content/technologies/energy-storage/Акумулятори.md",
-    "content/technologies/renewable-electric/Мікро- та міні-ГЕС.md",
-    "content/technologies/renewable-electric/Сонячна енергетика.md",
-    "content/technologies/thermal/Біогаз.md",
-    "content/actors/Актори.md",
-    "content/technologies/thermal/Газифікація.md",
-    "content/technologies/thermal/Пряме спалювання.md",
-    "content/technologies/energy-storage/Системи накопичення та перетворення.md",
-    "content/technologies/energy-storage/> Системи накопичення та перетворення.md",
-    "content/technologies/combined-systems/> Комбіновані системи.md",
     "content/technologies/energy-storage",
-    "content/technologies/combined-systems",
-    "content/technologies/renewable-electric",
-    "content/technologies/thermal",
-    "content/technologies",
-    "content/actors/_grouping",
-    "content/actors/Актори.csv",
-    "content/actors/Групи акторів.csv"
+    "content/technologies/combined-systems"
   ]
 }
