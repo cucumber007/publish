@@ -20,3 +20,5 @@ Link format: `[[Canonical thesis title|wording that fits the sentence]]` so the 
 Texts link TO theses/concepts at the moment the claim is made.
 
 Theses link BACK to the supporting text(s) so the thesis node can be audited and expanded later.
+
+Adding links should keep text the same (see `wording that fits the sentence` part).

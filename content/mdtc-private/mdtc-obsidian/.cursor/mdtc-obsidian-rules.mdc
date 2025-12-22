@@ -2,3 +2,8 @@
 alwaysApply: true
 ---
 This is Obsidian notebook.
+
+Also apply:
+- `root-rules.mdc`
+- `thesis-mapping.mdc`
+- `mdtc-obsidian-tags.mdc`
