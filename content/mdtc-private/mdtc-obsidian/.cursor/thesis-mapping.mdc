@@ -1,0 +1,22 @@
+---
+alwaysApply: false
+---
+## Thesis mapping
+
+This vault maps ideas by turning claims in texts into linkable thesis nodes, backed by concept nodes.
+
+### Folder roles
+
+- `1_texts/`: longform notes / drafts / raw thinking. This is where claims are written in natural language.
+- `3_thesises/`: atomic (or close to atomic) thesis notes—canonical “nodes” that can be linked from many texts.
+- `2_concepts/`: reusable conceptual structures (definitions, taxonomies, chains, mechanisms) that theses and texts reference.
+
+### Mapping mechanism
+
+Inline Obsidian links are the mapping: when a sentence contains a claim, it links to the relevant thesis/concept note.
+
+Link format: `[[Canonical thesis title|wording that fits the sentence]]` so the text reads well while still mapping to the node.
+
+Texts link TO theses/concepts at the moment the claim is made.
+
+Theses link BACK to the supporting text(s) so the thesis node can be audited and expanded later.
